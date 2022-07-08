@@ -4,7 +4,7 @@
 ## Overview
 This repository defines the conformity assessment scheme for **Trusted Digital Identities for use by Public Sector Services.** This scheme intended to applied in conjunction with the national standard **CAN/CIOSC 103-1: Digital Trusted and Identity** which is based on the **Public Sector Profile of the Pan-Canadian Trust Framework Version 1.4**
 
-Scheme documents are found in this [folder](scheme)
+Scheme documents available for download are found in this [folder](scheme)
 
 ## Scope of Scheme
 
