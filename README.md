@@ -1,4 +1,4 @@
-# Conformity Assessment Scheme Trusted Digital Identity for use by Public Sector Services
+# Conformity Assessment Scheme: Trusted Digital Identity for use by Public Sector Services
 
 
 ## Overview
