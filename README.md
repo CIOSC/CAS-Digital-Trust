@@ -57,4 +57,4 @@ The scope of the scheme may include part or all the following:
 
 ***
 
-<p align=center><img src="./assets/cio-logo-blk.png"  width="200" height="200"></p>
+<p align=center><img src="./assets/ciosc-logo-blk.png"  width="200" height="200"></p>
