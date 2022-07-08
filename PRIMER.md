@@ -5,3 +5,7 @@ This document is intended to provide background information for those unfamilar 
 
 ## Certification Process
 ![image](./assets/ciosc-cert-process.png)
+
+## Determining Competency
+
+![image](./assets/ciosc-competency.png)

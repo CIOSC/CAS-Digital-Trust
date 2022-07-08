@@ -4,7 +4,9 @@
 ## Overview
 This repository defines the conformity assessment scheme for **Trusted Digital Identities for use by Public Sector Services.** This scheme intended to applied in conjunction with the national standard **CAN/CIOSC 103-1: Digital Trusted and Identity** which is based on the **Public Sector Profile of the Pan-Canadian Trust Framework Version 1.4**
 
-Scheme documents available for direct download are found in this [folder](scheme). As these documents are subject to change, please note the [commit details](https://github.com/CIOSC/CAS-TDI-Public/commits/main) when you download. Alternatively, you can fork or: `git clone https://github.com/CIOSC/CAS-TDI-Public.git` to maintain your own copy of the repository
+Scheme documents available for direct download are found in this [folder](scheme). As these documents are subject to change, please note the [commit details](https://github.com/CIOSC/CAS-TDI-Public/commits/main) when you download. Alternatively, you can fork or: `git clone https://github.com/CIOSC/CAS-TDI-Public.git` to maintain your own copy of the repository.
+
+A primer document is being developed for those who are unfamiliar with the standards development and certification process. You can find the primer [here](./PRIMER.md)
 
 
 ## Scope of Scheme
