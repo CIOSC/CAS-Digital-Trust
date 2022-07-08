@@ -54,9 +54,12 @@ The scope of the scheme may include part or all the following:
 ### Related Public Policies
 
 * [Treasury Board of Canada Directive on Identity Management](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=16577)
-<p></p>
-<p></p>
 
+
+
+
+***
+[Public Statements](./PUBLIC-STATEMENTS.md)
 ***
 
 <p align=center><img src="./assets/ciosc-logo-blk.png"  width="200" height="200"></p>
