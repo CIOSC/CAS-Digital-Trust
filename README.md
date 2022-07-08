@@ -15,10 +15,11 @@ The scope of the scheme may include part or all the following:
 * **Relationships in Canada:** of persons to persons, organizations to organizations, and persons to organizations.
 
 ## Intended Application of Scheme
-* This scheme is intended to be used in conjunction with, but not limited to, accredited conformity assessment bodies and standards.
-* This scheme is technology-agnostic and defined in a manner to allow for the consistent assessment of different platforms, services, architectures, and technologies. As such, tis scheme does not recommend one technology solution over another.  
-* This scheme does not authority and is intended to work with existing legal, policy and governance frameworks.
-* This scheme may be be applied in other contexts (international, domestic, etc.) The scheme has been designed so that minimal tailoring is required.
+* This scheme is intended to be used in conjunction with, but not limited to, **accredited conformity assessment bodies and standards**.
+* This scheme is **technology-agnostic** and defined in a manner to allow for the **impartial assessment** of different platforms, services, architectures, and technologies. As such, this scheme does not recommend one technology solution over another.  
+* This scheme **does not confer authority** and is intended to work with **existing legal, policy and governance frameworks**.
+* This scheme may be be applied in other contexts (international, domestic, etc.) 
+* The scheme has been designed so that **minimal tailoring** is required for different contexts.
 
 
 ## Stakeholders and Users
