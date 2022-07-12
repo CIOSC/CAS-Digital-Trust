@@ -11,7 +11,7 @@ A [Primer Document](./PRIMER.md) is being developed for those who are unfamiliar
 
 ## Scope of Scheme
 
-The scope of the scheme m**Trusted Digital Identities for use by Public Sector Services** ay include part or all the following:   
+The scope of the scheme **Trusted Digital Identities for use by Public Sector Services** may include part or all the following:   
 * **Persons in Canada:** all citizens and residents of Canada (including deceased persons) for whom an identity has been established in Canada. 
 * **Organizations in Canada:** all organizations registered in Canada (including inactive organizations) for which an identity has been established in Canada; and/or, 
 * **Relationships in Canada:** of persons to persons, organizations to organizations, and persons to organizations.
