@@ -2,19 +2,21 @@
 
 
 ## Overview
-This repository defines the conformity assessment scheme for **Trusted Digital Identities for use by Public Sector Services.** This scheme intended to applied in conjunction with the national standard **CAN/CIOSC 103-1: Digital Trusted and Identity** which is based on the **Public Sector Profile of the Pan-Canadian Trust Framework Version 1.4**
+This repository defines the conformity assessment scheme for **Trusted Digital Identities for use by Public Sector Services.** This scheme intended to applied in conjunction with the national standard [**CAN/CIOSC 103-1: Digital Trusted and Identity**](docs/DRAFT-CAN-CIOSC-103-1-20XX_D1_EN.pdf) (preview of next edition) which is based on the [**Public Sector Profile of the Pan-Canadian Trust Framework Version 1.4**](https://github.com/canada-ca/PCTF-CCP/tree/master/Version1_4)
 
 Scheme documents available for direct download are found in this [folder](scheme). As these documents are subject to change, please note the [commit details](https://github.com/CIOSC/CAS-TDI-Public/commits/main) when you download. Alternatively, you can fork or: `git clone https://github.com/CIOSC/CAS-TDI-Public.git` to maintain your own copy of the repository.
 
-A primer document is being developed for those who are unfamiliar with the standards development and certification process. You can find the primer [here](./PRIMER.md)
+A [Primer Document](./PRIMER.md) is being developed for those who are unfamiliar with the standards development and certification process. 
 
 
 ## Scope of Scheme
 
-The scope of the scheme may include part or all the following:   
+The scope of the scheme m**Trusted Digital Identities for use by Public Sector Services** ay include part or all the following:   
 * **Persons in Canada:** all citizens and residents of Canada (including deceased persons) for whom an identity has been established in Canada. 
 * **Organizations in Canada:** all organizations registered in Canada (including inactive organizations) for which an identity has been established in Canada; and/or, 
 * **Relationships in Canada:** of persons to persons, organizations to organizations, and persons to organizations.
+
+The scope of assessment is finalized as part of the assessment and certification engagement.This is detailed in the [Scheme Manual](scheme/Scheme-Manual.docx) currently under development
 
 ## Intended Application of Scheme
 * This scheme is intended to be used in conjunction with, but not limited to, **accredited conformity assessment bodies and standards**.
