@@ -27,6 +27,10 @@ The infographic below illustrates how everything works together for standards de
 
 ![image](./assets/ciosc-competency.png)
 
+## Trust Frameworks and Standards Development Landscape
+
+![image](./assets/ciosc-standards-landscape.png)
+
 ## Standards and Architecture Landscape
 
 ![image](./assets/ciosc-standards-architecture.png)
