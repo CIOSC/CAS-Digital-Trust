@@ -6,4 +6,9 @@ CIO Strategy Council ensures all employees and other personnel involved in certi
 
 To ensure that impartiality is both maintained and can be demonstrated, CIOSC has identified and assessed the risk of all relationships which may result in a conflict of interest or pose a threat to impartiality. 
 
- 
+ <details><summary>CIOSC</summary>
+<p>
+Details of CIOSC
+
+</p>
+</details>
