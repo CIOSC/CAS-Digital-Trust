@@ -28,9 +28,9 @@ The infographic below illustrates how everything works together for standards de
 ![image](./assets/ciosc-competency.png)
 
 ## Trust Frameworks and Standards Development Landscape
-The diagram below shows how concepts and content are developed in trust frameworks, incorporated into standards, used in certification schemes, and finally, gain legal and/or mutual recognition by the appropriate recognition bodies (either by means of legislation or agreement)
+The diagram below shows how concepts and content are developed in trust frameworks, incorporated into standards, used in certification schemes, and finally, gain legal or mutual recognition by the appropriate recognition bodies (either by means of legislation or agreement)
 
-![image](./assets/ciosc-standards-landscape.png)
+![image](./assets/ciosc-standards-landscape-1.png)
 
 ## Standards and Architecture Landscape
 
