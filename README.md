@@ -61,7 +61,7 @@ The scope of assessment is finalized as part of the assessment and certification
 
 
 ***
-[Public Statements](./PUBLIC-STATEMENTS.md) | [License](./LICENSE.md)
+[Public Statements](./public-information/README.md) | [License](./LICENSE.md)
 ***
 
 <p align=center><img src="./assets/ciosc-logo-blk.png"  width="200" height="200"></p>
