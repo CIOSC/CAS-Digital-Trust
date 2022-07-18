@@ -1,0 +1,2 @@
+# Scheme Manual
+Working copies of the Scheme Manual is maintained in [Google Docs](https://docs.google.com/document/d/1tgp815lX2yprUzKmvGHILN9T0dqSG50lW_CCHmBKRVs/edit?usp=sharing) Stable versions of document are periodically added to this repo
