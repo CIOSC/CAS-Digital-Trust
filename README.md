@@ -47,7 +47,7 @@ The scope of assessment is finalized as part of the assessment and certification
 ## References
 
 ### Normative References
-* CAN/CIOSC 103-1 Digital Trust and Identity: Fundamentals. [Preview Draft of 2nd edition for Public Review](./docs/DRAFT-CAN-CIOSC-103-1-20XX_D1_EN.pdf)
+* CAN/CIOSC 103-1 Digital Trust and Identity: Fundamentals. [Preview Draft of 2nd edition for Public Review](./docs/DOCS.md)
 
 ### Informative References
 * [Public Sector Profile of the Pan-Canadian Trust Framework Version 1.4](https://github.com/canada-ca/PCTF-CCP/tree/master/Version1_4)
