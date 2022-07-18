@@ -14,3 +14,4 @@ To ensure that impartiality is both maintained and can be demonstrated, CIOSC ha
 * Use of Certification Body's Name and Certification Mark or Logo
 * Process for handling requests for information
 * [Policy on Impartiality](./impartiality-policy.md)
+* [Confidentiality Policy](./confidentiality-policy.md)
