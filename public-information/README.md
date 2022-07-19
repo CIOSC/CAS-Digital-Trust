@@ -10,7 +10,7 @@ To ensure that impartiality is both maintained and can be demonstrated, CIOSC ha
 
 * [Audit Processes](./audit-program.md)
 * [Certification](./suspend-withdraw-reduce-scope-certification.md)
-* [Complaints and Appeals](./complaints-and-appeals)
+* [Complaints and Appeals](./complaints-and-appeals.md)
 * Management Systems and Certification Schemes
 * Use of Certification Body's Name and Certification Mark or Logo
 * Process for handling requests for information
