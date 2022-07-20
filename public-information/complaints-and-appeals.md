@@ -141,3 +141,4 @@ Every client complaint and appeal shall be recorded. The records are maintained 
  All complaint and appeal received by CIOSC will be closed within 7 working days after receipt of the complaint and appeal. The Executive Director is authorised for closing of complaint and appeal. 
 
 Reference: QP 07
+
