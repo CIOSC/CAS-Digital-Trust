@@ -38,4 +38,6 @@ The diagram below shows how concepts and content are:
 
 ## Standards and Architecture Landscape
 
+This diagram lays out the landscape of management and technical standards. On the right hand side of the diagram you can see the conformity assessment requirements, namely [ISO 17021](https://www.iso.org/standard/61651.html) for management standards certification and [ISO 17065](https://www.iso.org/standard/46568.html) for technical/product certification.
+
 ![image](./assets/ciosc-standards-architecture.png)
