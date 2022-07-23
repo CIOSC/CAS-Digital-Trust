@@ -1,10 +1,14 @@
-# Conformity Assessment Scheme: Trusted Digital Identity for use by Public Sector Services
+# Conformity Assessment Scheme: Trusted Digital Identity for use by Public Sector and Regulated Services
 
 
 ## Overview
-This repository defines the conformity assessment scheme for **Trusted Digital Identities for use by Public Sector Services.** This scheme intended to applied in conjunction with the national standard [**CAN/CIOSC 103-1: Digital Trusted and Identity**](./docs/DOCS.md) (preview of next edition) which is based on the [**Public Sector Profile of the Pan-Canadian Trust Framework Version 1.4**](https://github.com/canada-ca/PCTF-CCP/tree/master/Version1_4)
+This repository defines the conformity assessment scheme for **Trusted Digital Identities for use by Public Sector and Regulated Services.** This scheme intended to applied in conjunction with the national standard [**CAN/CIOSC 103-1: Digital Trusted and Identity**](./docs/DOCS.md) (preview of next edition) which is based on the [**Public Sector Profile of the Pan-Canadian Trust Framework Version 1.4**](https://github.com/canada-ca/PCTF-CCP/tree/master/Version1_4)
 
-Scheme documents available for direct download are found in this [folder](scheme). As these documents are subject to change, please note the [commit details](https://github.com/CIOSC/CAS-TDI-Public/commits/main) when you download. Alternatively, you can fork or: `git clone https://github.com/CIOSC/CAS-TDI-Public.git` to maintain your own copy of the repository.
+For the purposes of this conformity assessment scheme:
+* a **Public Sector Service** is any service using a trusted digital identity that is directly provided by a federal, provincial, territorial or municipal government. The services may include, but are not limited to: government sign-in services, online benefits delivery, or licensing and permits. Examples of trusted digital identity services used in this context are the [BC Services Card](https://www2.gov.bc.ca/gov/content/governments/government-id/bc-services-card) and [MyAlberta DigitalID](https://account.alberta.ca/) programs.
+* a **Regulated Service** is any service using a trusted digital identity that is subject to regulatory requirements such as **Know Your Client (KYC)**, or **Anti-Money Laundering (AML)**. These services may include, but are not limited to: banking, insurance, health, or any commercially-available service. Examples of trusted digital services used in this context are the [Canada Post IdentityComplete](https://www.canadapost-postescanada.ca/cpc/en/business/postal-services/digital-proof-identity.page) program.
+
+Conformity assessment scheme documents available for direct download are found in this [folder](scheme). As these documents are subject to change, please note the [commit details](https://github.com/CIOSC/CAS-TDI-Public/commits/main) when you download. Alternatively, you can fork or: `git clone https://github.com/CIOSC/CAS-TDI-Public.git` to maintain your own copy of the repository.
 
 A [Primer Document](./PRIMER.md) is being developed for those who are unfamiliar with the standards development and certification process.
 
