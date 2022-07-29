@@ -6,7 +6,7 @@ This document specifies activities in relation to this conformity assessment sch
 
 ## 2. Legally Enforceable Agreement with Client
 
-Formal enagements with a client must have a legally enforceable agreement. Please contact the accredited conformity assessment body for a copy of the agreement. Please note that confidentiality rules may apply as per [Confideniality Policy](../public-information/confidentiality-policy.md)
+Formal enagements with a client must have a legally enforceable agreement. Please contact the accredited conformity assessment body for a copy of the agreement. Please note that confidentiality rules may apply as per [Confidentiality Policy](../public-information/confidentiality-policy.md)
 
 ## 3. Legal and Regulatory Requirements for Scheme
 
