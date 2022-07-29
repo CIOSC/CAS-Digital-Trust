@@ -1,8 +1,10 @@
 # Scheme Manual
 
-## 1. Scope
+## 1. Scope and Purpose
 
 This document specifies activities in relation to this conformity assessment scheme to enable consistent management and expected outcomes. This document should be read in conjunction with the linked references contained within each section. If there are conflicting instructions, please notify the scheme owner or raise an issue on this repo.
+
+The purpose of this conformity assessment scheme is to demonstrat that specified requirements relating to a product, process,system, person or body are fulfilled. A detailed overview of conformity assessment may be found in this [document](./docs/conformity-assessment.md)
 
 ## 2. Legally Enforceable Agreement with Client
 
@@ -42,7 +44,10 @@ All exclusions must be reflected in assessment and resulting certification.
 
 ### Objects of Conformity
 
-[Objects of Conformity](./objects-of-conformity.md)
+[Objects of conformity](./objects-of-conformity.md) are used to select and specify the requirements to be assessed.
+
+
+
 
 ### 8 Assessment Time Determination
 

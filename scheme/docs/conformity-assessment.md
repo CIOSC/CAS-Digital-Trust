@@ -1,4 +1,6 @@
-# What is conformity assessment?
+# Conformity Assessment
+
+## What is conformity assessment?
 
 Conformity assessment is the demonstration that what is being supplied actually meets the requirements specified or claimed. Conformity assessment can be applied to a product (which, for these purposes includes a service), a process, a management system, a body or persons and includes activities such as testing, inspection and certification.
 
@@ -12,7 +14,7 @@ Accreditation is also conformity assessment but as it is used to evaluate third 
 
 A conformity assessment scheme (‘scheme’) is used to demonstrate that specified requirements relating to a product, process, system, person, or body are fulfilled. Schemes can range from being voluntary, self-regulated for commercial marketing purposes, to mandatory schemes owned by certification bodies who are accredited, carried out by authorized independent assessors, and subject to normative and informative documents, such as national standards, related policies, and guidelines.
 
-# Benefits of conformity assessment
+## Benefits of conformity assessment
 
 Demonstrating compliance with standards and other criteria assumes greater importance to consumer confidence as products and services etc. become increasingly technically complex. Conformity assessment is thus an indispensable part of a national, business, technology and quality infrastructure. When applied correctly, conformity assessment can:
 * provide purchasers with confidence in the suppliers, products or services they use.
@@ -27,7 +29,7 @@ If applied incorrectly however, conformity assessment can also:
 * inhibit innovation; and
 * confuse the market.
 
-## Conformity Assessment principles
+### Conformity Assessment principles
 
 Conformity assessment principles are as follows:
 * Conformity assessment schemes should be driven by market demand (including demand from end-users and consumers) or, where justified by the public interest, by regulators rather than by those with a commercial interest in conformity assessment.
