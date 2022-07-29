@@ -12,9 +12,13 @@ Formal enagements with a client must have a legally enforceable agreement. Pleas
 
 This scheme is dependent on the legal and requlatory requirements specific to the jurisdiction and context.
 
-## 4. Scheme Description
+## 4. Scheme Description and Purpose
 
-This is a global scheme intended to apply in different jurisdictions and contexts.
+This is a global scheme intended to apply within different jurisdictions and contexts.
+
+Scheme description and purpose are found in the [README](../README.md)
+
+
 
 ### 4.1 Applicability
 
@@ -34,27 +38,13 @@ Exclusions should be confirmed before preparing the quotation and verified at th
 
 All exclusions must be reflected in assessment and resulting certification.
 
+## 5 Assessment Approach
 
-## 5 Accreditation and Impartiality Requirements
+### Objects of Conformity
 
-The scope of the CIOSC accredition is granted by different accreditation bodies listed at the following link:
+[Objects of Conformity](./objects-of-conformity.md)
 
-## 6. Competence Requirements
-
-
-### 6.1 Public Sector Services
-
-### 6.2 Requlated Services
-
-
-## 7. Code
-
-|Certificate Prefix|Description|
-|---|---|
-|PS-CC|Public Sector Services, ISO Country Code|
-|RS-CC|Requlated Service. ISO Country Code|
-
-## 8. Assessment Time Determination
+### 8 Assessment Time Determination
 
 **Assessment duration** estimate is based on an agreed timeline with the client. Duration estimates should consider factors, such as:
 * Client schedule availablity and constraints
@@ -68,14 +58,38 @@ The scope of the CIOSC accredition is granted by different accreditation bodies 
 * Risks
 * ...
 
+## 6 Accreditation and Impartiality Requirements
+
+The scope of the CIOSC accredition is granted by different accreditation bodies listed at the following link:
+
+## 7 Competence Requirements
+
+
+### 7.1 Public Sector Services
+
+### 7.2 Requlated Services
+
+
+## 8 Certification Codes
+
+|Certificate Prefix|Description|
+|---|---|
+|PS-CC|Public Sector Services, ISO Country Code|
+|RS-CC|Requlated Service. ISO Country Code|
+
+
+
 ## Certification Process
 
-The certification process as defined by the accredited conformity assessment body.
+The certification process as defined by the accredited conformity assessment body. Details are in the [Certificate Policy](../public-information/certificate-issuance.md) 
 
 ## Expected Outcomes
 
-Public confidence that the organization has conforms to the applicable requirements of
-the standards. In particular, that the organization:
+The expected outcome is public confidence that the organization conforms to the applicable requirements of
+the standards and is delivery a program and/or service having integrity. In particular, that the organization:
 * has established a program and management system that is suitable and appropriate for its certification scope
 * instills confidence in its stakelholders and clients, 
 * demonstrates alignment  with the relevant statutory and regulatory requirements 
+* ensures that the management system meets program objectives 
+* is managing, supporting and monitoring processes to achieve the expected outcomes
+* aims to prevent nonconformities and has processes in place to improve.

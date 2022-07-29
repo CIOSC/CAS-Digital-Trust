@@ -1,6 +1,7 @@
-# Scheme Manual
-A working copy for comment and revision of the Scheme Manual is maintained in [Google Docs](https://docs.google.com/document/d/1tgp815lX2yprUzKmvGHILN9T0dqSG50lW_CCHmBKRVs/edit?usp=sharing) Stable versions of this document are periodically downloaded added to this repo folder or added as markdown documents
+# README
 
-[docs](./docs) contains documentation
+Scheme manuals and supporting material are found in this folder.
 
-[tools](./tools) contains the tools and templates
+* [Scheme Manual](./scheme-manual.md) master document
+* [docs](./docs) contains documentation
+* [tools](./tools) contains the tools and templates
