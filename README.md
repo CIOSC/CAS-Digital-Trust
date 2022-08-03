@@ -22,7 +22,7 @@ The scope of the scheme **Trusted Digital Identities for use by Public Sector Se
 * **Organizations in Canada:** all organizations registered in Canada (including inactive organizations) for which an identity has been established in Canada; and/or, 
 * **Relationships in Canada:** of persons to persons, organizations to organizations, and persons to organizations.
 
-The scope of assessment is finalized as part of the assessment and certification engagement.This is detailed in the [Scheme Manual](scheme/Scheme-Manual.docx) currently under development
+The scope of assessment is finalized as part of the assessment and certification engagement.This is detailed in the [Scheme Manual](./scheme/scheme-manual.md) currently under development
 
 ## Intended Application of Scheme
 * This scheme is intended to be used in conjunction with, but not limited to, **accredited conformity assessment bodies and standards**.
