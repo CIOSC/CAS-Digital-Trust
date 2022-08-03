@@ -1,13 +1,11 @@
 # Conformity Assessment Scheme: Trusted Digital Identity for use by Public Sector and Regulated Services
 
-
 ## Overview
 This repository defines the conformity assessment scheme for **Trusted Digital Identities for use by Public Sector and Regulated Services.** This scheme intended to applied in conjunction with the national standard [**CAN/CIOSC 103-1: Digital Trusted and Identity**](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust-fundamentals/) (this link is to the current edition and of the standard a public preview of the next edition of the standard). This standard (and editions thereof) is based on the [**Public Sector Profile of the Pan-Canadian Trust Framework Version 1.4**](https://github.com/canada-ca/PCTF-CCP/tree/master/Version1_4)
 
 For the purposes of this conformity assessment scheme:
 * a **Public Sector Service** is any service using a trusted digital identity that is directly provided by a federal, provincial, territorial or municipal government. The services may include, but are not limited to: government sign-in services, online benefits delivery, or licensing and permits. Examples of trusted digital identity services used in this context are the [BC Services Card](https://www2.gov.bc.ca/gov/content/governments/government-id/bc-services-card) and [MyAlberta DigitalID](https://account.alberta.ca/) programs.
 * a **Regulated Service** is any service using a trusted digital identity that is subject to regulatory requirements such as **Know Your Client (KYC)**, or **Anti-Money Laundering (AML)**. These services include the broader public sector, not-for-profit organizations, and for-profit organizations subject to regulatory requiremens. Examples include, but are not limited to: educational institutions, open banking, insurance, health care, hospitals, or any commercially-available service. Examples of trusted digital services used in this context are the [Canada Post IdentityComplete](https://www.canadapost-postescanada.ca/cpc/en/business/postal-services/digital-proof-identity.page) program.
-
 
 ## Scheme Documentation
 Conformity assessment scheme documents available for direct download are found in this [folder](scheme). As these documents are subject to change, please note the [commit details](https://github.com/CIOSC/CAS-TDI-Public/commits/main) when you download. Alternatively, you can fork or: `git clone https://github.com/CIOSC/CAS-TDI-Public.git` to maintain your own copy of the repository.
@@ -67,9 +65,8 @@ The scope of assessment is finalized as part of the assessment and certification
 
 
 
-
 ***
-[Public Statements](./public-information/README.md) | [License](./LICENSE.md)
+[Public Statement](./public-information/README.md) | [License](./LICENSE.md)
 ***
 
 <p align=center><img src="./assets/ciosc-logo-blk.png"  width="200" height="200"></p>
