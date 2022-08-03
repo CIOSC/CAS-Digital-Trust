@@ -17,6 +17,8 @@ It is recommended that organizations consider the follwing when defining or spec
 * Organizations with similar mandates; and
 * Use of common infrastructure or shared services.
 
+For a regulated service, specify the applicable legislation and regulation. For example, in Canada the [Know Your Client Requirements of Persons and Entities](https://fintrac-canafe.canada.ca/guidance-directives/client-clientele/Guide11/11-eng)
+
 *Assesor Tip: Develop a well-defined context statement (one or two sentences or at most, a concise paragraph) that provides a clear understanding of the situational aspect of the program or service.*
 
 ## Define Client Population Scope
