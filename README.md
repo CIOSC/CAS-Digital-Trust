@@ -2,7 +2,7 @@
 
 
 ## Overview
-This repository defines the conformity assessment scheme for **Trusted Digital Identities for use by Public Sector and Regulated Services.** This scheme intended to applied in conjunction with the national standard [**CAN/CIOSC 103-1: Digital Trusted and Identity**](./docs/DOCS.md) (preview of next edition) which is based on the [**Public Sector Profile of the Pan-Canadian Trust Framework Version 1.4**](https://github.com/canada-ca/PCTF-CCP/tree/master/Version1_4)
+This repository defines the conformity assessment scheme for **Trusted Digital Identities for use by Public Sector and Regulated Services.** This scheme intended to applied in conjunction with the national standard [**CAN/CIOSC 103-1: Digital Trusted and Identity**](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust-fundamentals/) (this link is to the current edition and of the standard a public preview of the next edition of the standard). This standard (and editions thereof) is based on the [**Public Sector Profile of the Pan-Canadian Trust Framework Version 1.4**](https://github.com/canada-ca/PCTF-CCP/tree/master/Version1_4)
 
 For the purposes of this conformity assessment scheme:
 * a **Public Sector Service** is any service using a trusted digital identity that is directly provided by a federal, provincial, territorial or municipal government. The services may include, but are not limited to: government sign-in services, online benefits delivery, or licensing and permits. Examples of trusted digital identity services used in this context are the [BC Services Card](https://www2.gov.bc.ca/gov/content/governments/government-id/bc-services-card) and [MyAlberta DigitalID](https://account.alberta.ca/) programs.
