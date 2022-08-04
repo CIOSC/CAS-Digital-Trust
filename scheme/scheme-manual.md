@@ -40,20 +40,36 @@ Exclusions should be confirmed before preparing the quotation and verified at th
 
 All exclusions must be reflected in assessment and resulting certification.
 
-## 5 Assessment Approach
+## 5 Audit Approach
+
+### Audit Engagement
+The lead auditor should:
+* communicate the relevant parts of the assessment engagement, including the risks and opportunities
+* define objectives, scope and criteria, for each asssessment
+* agree on audit methods
+
 
 ### Objects of Conformity
 
 [Objects of conformity](./objects-of-conformity.md) are used to select and specify the requirements to be assessed.
 
 
+### Assessment Time Determination
 
+In determining the audit time (duration and/or effort), among other things, the following aspects are considered before proceeding: 
 
-### 8 Assessment Time Determination
+* the requirements of the relevant management system standard; 
+* complexity of the client and its management system; 
+* technological and regulatory context; 
+* any outsourcing of any activities included in the scope of the management system; 
+* the results of any prior audits; 
+* size and number of sites, their geographical locations and multi-site considerations; 
+* the risks associated with the products, processes or activities of the organization; 
+* whether audits are combined, joint or integrated. 
 
 **Assessment duration** estimate is based on an agreed timeline with the client. Duration estimates should consider factors, such as:
 * Client schedule availablity and constraints
-* Resource avaialablity and contstraints
+* Resource avaialability and contstraints
 * Risks
 * ...
 
@@ -61,7 +77,8 @@ All exclusions must be reflected in assessment and resulting certification.
 * Scope of assessment
 * Degree of assesment
 * Risks
-* ...
+
+
 
 ## 6 Accreditation and Impartiality Requirements
 
@@ -72,16 +89,23 @@ The scope of the CIOSC accredition is granted by different accreditation bodies 
 
 ### 7.1 Public Sector Services
 
+|Function|Requirements|
+|---|---|
+Lead Assessor| Prior public sector engagements|
+
 ### 7.2 Requlated Services
+Function|Requirements|
+|---|---|
+Lead Assessor| Related sector engagements|
+
 
 
 ## 8 Certification Codes
 
 |Certificate Prefix|Description|
 |---|---|
-|PS-CC|Public Sector Services, ISO Country Code|
-|RS-CC|Requlated Service. ISO Country Code|
-
+|PS-CC-LEV|Public Sector Services, ISO Country Code, Level of Government|
+|RS-CC-SEC|Regulated Services, ISO Country Code, Sector|
 
 
 ## Certification Process
