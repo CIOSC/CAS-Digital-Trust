@@ -1,5 +1,6 @@
 # CIO Strategy Council Quality Policy 
 
+[Video](https://youtu.be/QCejABKcM1U)
 
 Quality is integral to the CIO Strategy Council technical, operational and client service delivery processes. Our quality service culture is characterized by client focus and continuous improvement in all we do. 
 

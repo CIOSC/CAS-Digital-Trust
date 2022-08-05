@@ -1,5 +1,7 @@
 # Confidentiality Policy
 
+[Video](https://youtu.be/1cHRl1TcDJU)
+
 All information received by or available to CIO Strategy Council staff, subcontractors, or committee members (in whatever format) in conducting audit activities, or during other certification activities, or during any engagements with an organization for any other reason shall be regarded as strictly confidential and shall not be divulged to any third party (unless specified in ISO/IEC 17021-1:2015) without the express permission of the organization or individual concerned. The requirement to keep confidential any information will also include any organization that has a legitimate right to audit or inspect CIO Strategy Council.  
 
 Where CIO Strategy Council is required by law to release confidential information to a third party, the client or individual concerned shall, unless regulated by law, be notified in advance of the information provided  
