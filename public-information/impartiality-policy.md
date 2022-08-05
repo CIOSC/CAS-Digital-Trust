@@ -1,4 +1,6 @@
 # CIO Strategy Council Impartiality Policy
+[Overview Video](https://youtu.be/e9IK-0NPWe0)
+
 CIO Strategy Council is the legal entity responsible for certification activities; reference to CIO Strategy Council in this Policy and Public Statement refers to this legal entity. 
 
 CIO Strategy Council, its Directors, Staff and Subcontractors fully understand the importance of impartiality and commits to remain impartial in undertaking certification activities. CIO Strategy Council ensures all employees and other personnel involved in certification activities are, and will remain, impartial. To ensure that impartiality is both maintained and can be demonstrated, the following principles have been established: 
