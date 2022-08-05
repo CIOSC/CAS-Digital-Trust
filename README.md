@@ -18,9 +18,9 @@ An [Orientation Video](https://youtu.be/3aQmmFXJfW0) to guide users around the v
 ## Scope of Scheme
 
 The scope of the scheme **Trusted Digital Identities for use by Public Sector Services** may include part or all the following:   
-* **Persons in Canada:** all citizens and residents of Canada (including deceased persons) for whom an identity has been established in Canada. 
-* **Organizations in Canada:** all organizations registered in Canada (including inactive organizations) for which an identity has been established in Canada; and/or, 
-* **Relationships in Canada:** of persons to persons, organizations to organizations, and persons to organizations.
+* **Persons**: all citizens and residents of a jurisdiction (including deceased persons) for whom an identity has been established within a jurisdiction. 
+* **Organizations**: all organizations registered within a jurisdiction (including inactive organizations) for which an identity has been established within that jurisdiction; and/or, 
+* **Relationships**: of persons to persons, organizations to organizations, and persons to organizations.
 
 The scope of assessment is finalized as part of the assessment and certification engagement.This is detailed in the [Scheme Manual](./scheme/scheme-manual.md) currently under development.
 
