@@ -78,6 +78,22 @@ In determining the audit time (duration and/or effort), among other things, the 
 * Degree of assesment
 * Risks
 
+**Factors which may increase assessment duration and effort**
+* Logistics that may involving more than one geographical location where efforts are carried out.
+* Multiple languages requiring interpreters or preventing individual auditors from working independently
+* Outsourced functions or processes
+* Highly complex processes or high number of unique activities
+
+**Factors which may reduce assessment duration and effort**
+* Maturity of management system
+* Prior knowledge of management system (e.g. already certified to another standard)
+* Client preparedness
+* Level of automation
+
+Details on [Staged Audits](staged-audits.md)
+
+### Risk Categories
+Potential risks and/or assurance level requirements may impact the duration and effort of the assessment.
 
 
 ## 6 Accreditation and Impartiality Requirements
