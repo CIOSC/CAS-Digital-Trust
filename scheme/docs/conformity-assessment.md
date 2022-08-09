@@ -29,6 +29,13 @@ If applied incorrectly however, conformity assessment can also:
 * inhibit innovation; and
 * confuse the market.
 
+**Consumers** benefit from conformity assessment because it provides them with a basis for selecting products or services. They may have more confidence in products or services that are supported by a formal supplier’s declaration, or bearing a mark or certificate of conformity, that attest to quality,safety or other desirable characteristics
+
+**Manufacturers and service providers** need to make sure that their products and services meet their declared specifications and deliver on customer expectations. Assessing their products and services in accordance with ISO and IEC International Standards helps them to meet the current state of the art and to avoid the costs of product failures in the market. When public health, safety or the environment may be at stake, conformity assessment is often made obligatory by government regulations. Without appropriate assessment and approval, goods may be barred from sale, or suppliers disqualified from bidding for government procurement contracts. ISO/IEC International Standards and Guides also provide requirements and guidance for good practice and recog nition of such assessments.
+
+**Regulators** benefit from conformity assessment that gives them a means to enforce national health, safety and environmental legislation and achieve public policy goals.Harmonizing conformity assessment procedures around the world also has far-reaching benefits for international trade in general. One of the main hurdles to cross-border trade that exporters face is costly multiple testing and/or certification of products.
+Non-transparent or discriminatory conformity assessment procedures can become effective protectionist tools, or “technical barriers to trade”.
+
 ### Conformity Assessment principles
 
 Conformity assessment principles are as follows:
