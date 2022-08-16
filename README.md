@@ -21,6 +21,8 @@ A [Primer Document](./PRIMER.md) is being developed for those who are unfamiliar
 
 An [Orientation Video](https://youtu.be/3aQmmFXJfW0) to guide users around the various pieces of the repository (subject to change)
 
+An [Overview Video](https://youtu.be/4bbuKr3lweQ) describing the global context and the benefits to the public sector: [Accreditation: A global tool to support public policy]
+
 
 ## Scope of Scheme
 
