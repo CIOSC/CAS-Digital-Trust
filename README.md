@@ -7,6 +7,8 @@ This repository defines the conformity assessment scheme for **Trusted Digital I
 * a **Public Sector Service** is any service using a trusted digital identity that is directly provided by a federal, provincial, territorial or municipal government. The services may include, but are not limited to: government sign-in services, online benefits delivery, or licensing and permits. Examples of trusted digital identity services used in this context are the [BC Services Card](https://www2.gov.bc.ca/gov/content/governments/government-id/bc-services-card) and [MyAlberta DigitalID](https://account.alberta.ca/) programs.
 * a **Regulated Service** is any service using a trusted digital identity that is subject to regulatory requirements such as **Know Your Client (KYC)**, or **Anti-Money Laundering (AML)**. These services include the broader public sector, not-for-profit organizations, and for-profit organizations subject to regulatory requiremens. Examples include, but are not limited to: educational institutions, open banking, insurance, health care, hospitals, or any commercially-available service. Examples of trusted digital services used in this context are the [Canada Post IdentityComplete](https://www.canadapost-postescanada.ca/cpc/en/business/postal-services/digital-proof-identity.page) program.
 
+More broadly, this scheme addresses an emerging [market need](./scheme/docs/market-need.md) for digital trust and identity services.
+
 ### Scheme Scope and Application:
 * The scope of the conformity assessment scheme and its application may be **restricted** to assess a service or program in relation to assessing a the provision of attributes related **trusted digital identity** only,or
 
