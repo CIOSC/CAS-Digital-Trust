@@ -4,7 +4,7 @@
 It is important that the market has assurance that conformity assessment bodies (CABs) themselves operate to acceptable standards and this is the purpose of accreditation. The accreditation process determines, in the public interest, the technical competence and integrity of organisations such as those offering testing, calibration and certification services (commonly referred to as conformity assessment).
 Benefits of accreditation
 
-Accreditation operates across all market sectors and provides an impartial assessment against nationally and internationally recognised standards. This has benefits for several groups.
+Accreditation assures governments, businesses and end users that Conformity Assessment Bodies have the required competence and impartiality to fulfill their role as evidenced by the fulfillment of specific accreditation requirements. Accreditation operates across all market sectors and provides an impartial assessment against nationally and internationally recognised standards. This has benefits for several groups.
 
 **Government**
 

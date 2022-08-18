@@ -10,6 +10,8 @@ The diagram below shows how the major pieces fit together conceptually.
 
 Looking directly above in the figure, a **conformity assessment** scheme is used in conjunction with a **standard** to assess a **system** or a **product** for certification.
 
+[Video: How to check Accredited Certificates and Reports](https://youtu.be/xKGbS9uh2v8)
+
 ## Standards Development Process
 In accordance with SCC requirements, CIOSC has defined a standards development process principles that are **open by default** with **full transparency** using **agile development**. To ensure standards are developed to serve a broad array of stakeholders, principles embracing **consensus-based decision-making**, **multi-stakeholder participation**, and **current and readily avaialable** are also defined.
 
@@ -21,6 +23,7 @@ The infographic below illustrates how everything works together for standards de
 ## Certification Process
 
 ![image](./assets/ciosc-cert-process.png)
+
 
 
 ## Determining Competency
