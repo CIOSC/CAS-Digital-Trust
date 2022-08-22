@@ -14,6 +14,11 @@ Accreditation is also conformity assessment but as it is used to evaluate third 
 
 A conformity assessment scheme (‘scheme’) is used to demonstrate that specified requirements relating to a product, process, system, person, or body are fulfilled. Schemes can range from being voluntary, self-regulated for commercial marketing purposes, to mandatory schemes owned by certification bodies who are accredited, carried out by authorized independent assessors, and subject to normative and informative documents, such as national standards, related policies, and guidelines.
 
+## Why conformity assessment?
+
+The global scope and borderless nature of digital trust and identity services has facilitated the rapid growth of the digital economy. For established economic sectors, such as manufacturing and distribution, there are hundreds of third-party national and multinational conformity assessment bodies.
+
+
 ## Benefits of conformity assessment
 
 Demonstrating compliance with standards and other criteria assumes greater importance to consumer confidence as products and services etc. become increasingly technically complex. Conformity assessment is thus an indispensable part of a national, business, technology and quality infrastructure. When applied correctly, conformity assessment can:
