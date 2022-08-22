@@ -1,6 +1,10 @@
 # Conformity Assessment Scheme: Trusted Digital Identity for use by Public Sector and Regulated Services
 
+
 ## Overview
+
+Digital Trust and Identity systems are emerging as critical infrastructure and now becoming the crucial underpinning of government and private sector digital services. To address the market need and to ensure confidence in these systems, CIOSC is developing conformity assessment schemes and has applied for accreditation with Standards Council of Canada.
+
 This repository defines the conformity assessment scheme for **Trusted Digital Identities for use by Public Sector and Regulated Services.** This scheme intended to applied in conjunction with the national standard [**CAN/CIOSC 103-1: Digital Trust and Identity**](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust-fundamentals/) (this link is to the current edition and of the standard a public preview of the next edition of the standard). This standard (and editions thereof) is based on the [**Public Sector Profile of the Pan-Canadian Trust Framework Version 1.4**](https://github.com/canada-ca/PCTF-CCP/tree/master/Version1_4)
 
 ### For the purposes of this conformity assessment scheme:
