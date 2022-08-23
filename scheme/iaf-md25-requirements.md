@@ -47,8 +47,8 @@ The following definitions (slightly edited) are provided to assist the reader in
 * vii) An analysis showing that the selected conformity assessment activity is appropriate. </i>
 
 ***
-Detailed information is provided in [Scheme Validation](scheme-validation.md)
 
+Detailed information is provided in [Scheme Validation](scheme-validation.md)
 
 ***
 
