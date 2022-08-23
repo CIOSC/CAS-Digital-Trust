@@ -18,7 +18,14 @@ Decribed in [README.md](../README.md)
 
 # Description of Requirements
 
+* The scheme requirements are based on the draft of [CAN/CIOSC 103-1 Second Edition](../docs/DRAFT-CAN-CIOSC-103-1-20XX_D1_EN.pdf) which is currently under public review
+* Conformance requirements are tabulated and cross-refrenced to the standard in the [worksheet](./tools/Conformity-Assessment-Workbook.xlsx)
+
+
+
 # Analyis of Scheme Requirements
+
+* Scheme requirments are based on the Public Sector Profile of the Pan-Canadian Trust Framework [Consolidated Overview Version 1.4](https://github.com/canada-ca/PCTF-CCP/blob/master/Version1_4/PSP-PCTF-V-1.4-Consolidated-Overview-EN-2021-12-16.pdf)
 
 # Methods to be used for determining fulfilment of the requirements
 
