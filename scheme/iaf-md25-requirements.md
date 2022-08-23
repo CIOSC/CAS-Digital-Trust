@@ -53,11 +53,11 @@ The following definitions (slightly edited) are provided to assist the reader in
 ***
 
 ### 3.4 In case the SO provides any clarification on the CAS to any interested party, this information shall also be available to the ABs and CABs within the CAS 
+***
+* All clarifications to the Conformity Assessment Scheme (CAS), are be registered as an [issue](https://github.com/CIOSC/CAS-TDI-Public/issues) with a clarification tag and available immediately on this Github repo. An example [here](https://github.com/CIOSC/CAS-TDI-Public/issues/3). 
+* Clarifications are resolved through the same process as other issues.
+***
 
-All clarifications to the Conformity Assessment Scheme (CAS), can be registered as an issue with a clarification tag and available immediately on this Github repo. Example [here](https://github.com/CIOSC/CAS-TDI-Public/issues/3). Clarifications are resolved through the same process as other issues.
-***
-* <i>to be added</i>
-***
 
 ### 3.5 The SO shall have a legally enforceable agreement with ABs and/or CABs
 <i>The SO shall have a legally enforceable agreement with ABs and/or CABs it authorizes which, as a minimum, shall ensure that the CABs use the CAS as published by the SO, without any additions or reductions, and comply with SO rules for applying the symbol/statement/mark, as applicable.</i>
