@@ -26,14 +26,14 @@ The following definitions (slightly edited) are provided to assist the reader in
 ***
 
 * The conformity assessment sheme is based on prior work led the the Canadian Public Sector to assess pubic sector programs to ensure that they have the integrity to accepted as a trusted digital identity provider. The repo is found here: [Public Sector Profile of the Pan-Canadian Trust Framework](https://github.com/canada-ca/PCTF-CCP). The conformity assessment scheme is being expanded in scope to include regulated services, such as banking, insurance, and health.
-* The selected standard is CAN/CIOSC 103-1 Digital Trust and Identity ...
+* The selected standard is [CAN/CIOSC 103-1 Digital Trust and Identity: Part 1 Fundamentals](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust-fundamentals/) 
 
 ***
 
 ### 3.2 The SO shall make a general description of the CAS publicly available without request. The scheme documents, including the criteria and process to be used in assessing conformity shall be publicly available. 
 
 ***
-* The conformity assessment scheme is publicly avaiable in this repo. Please review [README.md](../README.md)
+* The conformity assessment scheme is publicly available in this repo. Please review [README.md](../README.md)
 ***
 
 ### 3.3 The SO should demonstrate that the CAS has been validated. 
