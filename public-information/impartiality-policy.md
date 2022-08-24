@@ -1,4 +1,6 @@
 # CIO Strategy Council Impartiality Policy
+<i>Please note that this a copy of the approved version on file at CIOSC and is provided for public information purposes. If you wish to have an officially signed copy of the approved version, please contact us.</i>
+
 [Overview Video](https://youtu.be/e9IK-0NPWe0)
 
 CIO Strategy Council is the legal entity responsible for certification activities; reference to CIO Strategy Council in this Policy and Public Statement refers to this legal entity. 
