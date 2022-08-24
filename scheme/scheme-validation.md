@@ -1,14 +1,19 @@
-# The Market Need for Digital Trust and Identity Conformity Assessment Scheme
+# Validation of Need for a Digital Trust and Identity Conformity Assessment Scheme
 
-## Introduction
-A digital trust and identity program requires more than a robust technical implementation. It requires: 
+## Market Need
+
+There is an emerging market need for the certification of digital trust and identity programs for public sector, private sector and Regulated Programs). The market need is beyond whether the technology actually works, but rather that user has confidence in the technology *and* the overall integrity of a program delivering the digital trust service. 
+
+While **digital identity** is the initial focus of this scheme, there is an opportuntiy to expand the scope more broadly to **digital trust** encompassing other areas digital credentials, data governance and responsible AI.
+In the end, a digital trust and identity program requires more than a sound technical implementation, it requires: 
 * accepted principles;
 * good governance; 
-* specific purpose
-* sound management; and most importantly,
-* legal context.
+* a specific mandate or purpose;
+* sound management; 
+* a legal operating context; and most importantly,
+* user confidence and social acceptance.
 
-There is an emerging market need for the certification of digital trust and identity programs (public sector and regulated services) where the user has confidence in the technology *and* the overall integrity of a program delivering the digital trust service. While digital identity is the initial focus, digital trust, more broadly,encompasses other related and complementary areas, such as: digital credentials, data governance and responsible AI.
+
 
 
 

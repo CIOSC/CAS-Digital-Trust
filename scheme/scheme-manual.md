@@ -121,7 +121,7 @@ Lead Assessor| Related sector engagements|
 |Certificate Prefix|Description|
 |---|---|
 |PS-CC-LEV|Public Sector Services, ISO Country Code, Level of Government|
-|RS-CC-SEC|Regulated Services, ISO Country Code, Sector|
+|RS-CC-SEC|Regulated Programs, ISO Country Code, Sector|
 
 
 ## Certification Process
