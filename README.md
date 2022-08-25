@@ -21,7 +21,7 @@ More broadly, this scheme addresses an emerging [market need](./scheme/docs/mark
 In all cases, scope and application must be agreed on and documented at the beginning of the assesment enagement.
 
 ## Scheme Documentation
-Link to [Scheme Documentation](./scheme/scheme-manual.md)
+Link to [Scheme Manual](./scheme/scheme-manual.md)
 
 Conformity assessment scheme documents available for direct download are found in this [folder](scheme). As these documents are subject to change, please note the [commit details](https://github.com/CIOSC/CAS-TDI-Public/commits/main) when you download. Alternatively, you can fork or: `git clone https://github.com/CIOSC/CAS-TDI-Public.git` to maintain your own copy of the repository.
 
