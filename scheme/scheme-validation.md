@@ -13,8 +13,9 @@ In the end, a digital trust and identity program requires more than a sound tech
 * a legal operating context; and most importantly,
 * user confidence and social acceptance.
 
+## Strategic Fit
 
-
+![image](../scheme/images/standard-schemes-layers.png)
 
 
 # Description and Purpose of Scheme
