@@ -30,7 +30,15 @@ It is anticipated that market will consist of [competent authorities](https://en
 
  * **Certification of Processes and Services** such as real-time document checking, digital credential issuance, and liveness testing.
 
-![image](../scheme/images/standard-schemes-layers.png)
+ The [Trust Over IP model](https://trustoverip.org/toip-model/) helps map the exsting standards and conformity assessment schemes into a set of abstracted layers. This model helps to better understand the separation of concerns within an emerging global digital ecosystem. The layers are defined as:
+ * **Layer 4 Trust Applications** - representing the application ecosystem
+ * **Layer 3 Trust Tasks** - representing functions that enable the yield or tranfer of value, such as credential issuance and credential presentation.
+ * **Layer 2 Trust Spanning** - representing the peer-to-peer protocols that enable systems to interact across the boundaries of enterprises, networks and geopolitical entities.
+ * **Layer 1 Trust Support** - representing utility functions and frameworks such as decentralized identifiers, distributed ledgers and decentralized file systems.
+
+Looking at the diagram - 17021 management systems conformity assessment schemes map to Layers 3 and 4 while 17065 products/products/services conformity assessment schemes map to Layers 1 and 2.
+
+![image](../scheme/images/schemes-standards-stacks.png)
 
 
 # Description and Purpose of Scheme
