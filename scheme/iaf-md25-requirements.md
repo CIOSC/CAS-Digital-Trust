@@ -16,7 +16,6 @@ The following definitions (slightly edited) are provided to assist the reader in
 * **Regulators** Governmental entities implementing legislation.
 
 ***
-
 ## 3. Requirements for Scheme Owners
 ## General ABs shall ensure that the following conditions are met before cooperating with an SO,unless any of the conditions are not applicable to a specific CAS.
 
@@ -24,6 +23,7 @@ The following definitions (slightly edited) are provided to assist the reader in
 ### 3.1 Sufficient evidence and justification that the conformity assessment activity and the standard selected for the accreditation of the CABs is appropriate shall be maintained.
 
 ***
+<u>Fulfillment of requirement:</u>
 
 * The conformity assessment sheme is based on prior work led the the Canadian Public Sector to assess pubic sector programs to ensure that they have the integrity to accepted as a trusted digital identity provider. The repo is found here: [Public Sector Profile of the Pan-Canadian Trust Framework](https://github.com/canada-ca/PCTF-CCP). The conformity assessment scheme is being expanded in scope to include Regulated Programs, such as banking, insurance, and health.
 * The selected standard is [CAN/CIOSC 103-1 Digital Trust and Identity: Part 1 Fundamentals](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust-fundamentals/) 
@@ -33,6 +33,7 @@ The following definitions (slightly edited) are provided to assist the reader in
 ### 3.2 The SO shall make a general description of the CAS publicly available without request. The scheme documents, including the criteria and process to be used in assessing conformity shall be publicly available. 
 
 ***
+<u>Fulfillment of requirement:</u>
 * The conformity assessment scheme is publicly available in this repo. Please review [README.md](../README.md)
 ***
 

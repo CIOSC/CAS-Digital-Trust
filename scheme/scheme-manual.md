@@ -6,6 +6,8 @@ This document specifies activities in relation to this conformity assessment sch
 
 The purpose of this conformity assessment scheme is to demonstrat that specified requirements relating to a product, process,system, person or body are fulfilled. A detailed overview of conformity assessment may be found in this [document](./docs/conformity-assessment.md)
 
+[Assessment of scheme against IAF MD25 Requirements](iaf-md25-requirements.md)
+
 ## 2. Legally Enforceable Agreement with Client
 
 Formal enagements with a client must have a legally enforceable agreement. Please contact the accredited conformity assessment body for a copy of the agreement. Please note that confidentiality rules may apply as per [Confidentiality Policy](../public-information/confidentiality-policy.md)
