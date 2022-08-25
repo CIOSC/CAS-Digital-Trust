@@ -16,9 +16,19 @@ In the end, a digital trust and identity program requires more than a sound tech
 ## Strategic Fit
 The diagram below illustrates the [strategic fit](https://www.bstrategyinsights.com/strategic-fit/) of the conformity assessment scheme (in green) in relation to [ISO 17021-1:2015](https://www.iso.org/standard/61651.html), [ISO/IEC17065:2012](https://www.iso.org/standard/46568.html) and the [Trust Over IP Model](https://trustoverip.org/toip-model/). 
 
-Put simply, the Digital Trust and Identity conformity assessment scheme, in accordance with ISO 17021, ensures the confidence the of management system underpinning a digital trust service that provides identity, while complementary schemes, in accordance with, ISO 17065, ensure the confidence of products, processes and services. As depicted in the diagram, there can be overlap of scope beween the schemes, for example a service that is certified specifically under 17065, may be part of a larger program that is certified under 17021. 
+Put simply, the **Digital Trust and Identity Conformity Assessment Scheme**, in accordance with **ISO 17021**, ensures confidence the management system underpinning a digital trust service that provides identity. In turn, conformity assessment schemes for products,processes and services, in accordance with, **ISO 17065**, ensure the confidence of products, processes and services. As depicted in the diagram, there can be overlap of scope beween these schemes, which can be complementary. For example a service that is certified specifically under ISO 17065, may also be part of a larger program that is certified under ISO 17021. 
 
-It is anticipated that a [competent authority](https://en.wikipedia.org/wiki/Competent_authority) would seek certification under 17021, while vendors of products, processs and services vendors would seek certification under 17065. The schemes (as indicated in the diagram) are complementary to one another, and in certain cases, may overlap in scope.
+It is anticipated that market will consist of [competent authorities](https://en.wikipedia.org/wiki/Competent_authority) seeking certification of their programs under 17021. Examples could include:
+
+* **Government digital identity programs** to provide an independent assurance to policymakers, regulators that the program is indeed doing what it is actually intended to do.
+
+* **Industry bodies** seeking mututal recognition across different sectors that work together. The conformity assessment scheme and the resulting certifications provide the independed audit and baseline of confidence required by all industry sectors..
+
+ Vendors of products, processs and services vendors would seek certification under 17065. The schemes (as indicated in the diagram) are complementary to one another, and in certain cases, may overlap in scope. Examples include:
+
+ * **Certification of Products** such as hardware devices that are used for secure authentication or facilitate the collection of sensitve personal data such as biometric templates.
+
+ * **Certification of Processes and Services** such as real-time document checking, digital credential issuance, and liveness testing.
 
 ![image](../scheme/images/standard-schemes-layers.png)
 
