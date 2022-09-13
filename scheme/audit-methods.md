@@ -31,4 +31,26 @@ Collection and analysis of non-sensitive data gathered from open sources. Source
 * Sales, marketing information
 * Public goverment data
 * Professional and academic information
-* Social medai
+* Social media
+
+
+## Phased and Iterative Approach
+
+### Detailed Assessment Methos
+The figure below illustrated a detailed audit process occuring over four major phases.
+
+* **Engagement** phase involving team formation, project kick-off and site visit (if possible)
+* **Program Mapping** phase involving discovery, evidence gathering, analysis and process mapping.
+* **Program Assessment** phase involving consultation & workshopds, criteria assessment, overall assessment and peer review
+* **Finalize** phase involving certificate preparation and issuance.
+
+![Detailed Assessment](./images/detailed-assessment.png)
+
+### Iterative Assessment Methods
+The figure below illustrated an iterative assessment process that can be conducted through the audit process.
+* **Gather Evidence** gathering of evidence required for the assesment process.
+* **Tabulate Evidence** organizing of evidence; this may result in discovering gaps, inconsistencies which can be fed back into the gathering evidence process.
+* **Evaluate According to Assessment Scheme** evaluating the evidence according to the assessment scheme; this may result in additional evidence being required which can be fed back in the tabulate evidence process.
+* **Prepare and Issue Certificate** based on the outcomes of the assessment,
+
+![Detailed Assessment](./images/iterative-assessment.png)
