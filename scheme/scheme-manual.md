@@ -94,6 +94,8 @@ In determining the audit time (duration and/or effort), among other things, the 
 
 Details on [Staged Audits](staged-audits.md)
 
+Details on [Audit Methods](audit-methods.md)
+
 ### Risk Categories
 Potential risks and/or assurance level requirements may impact the duration and effort of the assessment.
 
