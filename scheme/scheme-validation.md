@@ -2,7 +2,9 @@
 
 # Market Need
 
-There is an emerging market need for the certification of digital trust and identity programs for public sector, private sector and Regulated Programs). The market need is beyond whether the technology actually works, but rather that user has confidence in the technology *and* the overall integrity of a program delivering the digital trust service. 
+There is an emerging market need for the certification of digital trust and identity programs for the public sector and the private sector. These programs may draw their enabling mandates from legislation, regulation, or industry best practices. The market need is to ensure that these programs are trustworthy based on a standardized assessment approach that is technology-agnostic and which can evaluated indedependently  considering the varied contextual factors of legislation, requlation, industry practices, etc.
+
+The emphasis of the conformity assessment scheme is on the overall soundness of the program, such that its stakelolders have confidence in the delivery of digital trust and identity services. Technology plays an important part, but technology, their functions need to be situated within a digital trust and identity program context that is producing the right outputs and achieving the right outcomes.
 
 While **digital identity** is the initial focus of this scheme, there is an opportuntiy to expand the scope more broadly to **digital trust** encompassing other areas digital credentials, data governance and responsible AI.
 In the end, a digital trust and identity program requires more than a sound technical implementation, it requires: 
@@ -45,11 +47,12 @@ Looking at the diagram - 17021 management systems conformity assessment schemes 
 
 The purpose of this scheme to provide conformity assessments for 
 
-**Public Sector Programs** which are any public programs or services using a trusted digital identity that is directly provided by a federal, provincial, territorial or municipal government. The services may include, but are not limited to: government sign-in services, online benefits delivery, or licensing and permits. Examples of trusted digital identity services used in this context are the [BC Services Card](https://www2.gov.bc.ca/gov/content/governments/government-id/bc-services-card) and [MyAlberta DigitalID](https://account.alberta.ca/) programs.
-* a **Regulated Progams** which are any private sector or not-for-profit programs or services using a trusted digital identity that is subject to regulatory requirements such as **Know Your Client (KYC)**, or **Anti-Money Laundering (AML)**. These services include the broader public sector, not-for-profit organizations, and for-profit organizations subject to regulatory requiremens. Examples include, but are not limited to: educational institutions, open banking, insurance, health care, hospitals, or any commercially-available service. Examples of trusted digital services used in this context are the [Canada Post IdentityComplete](https://www.canadapost-postescanada.ca/cpc/en/business/postal-services/digital-proof-identity.page) program.
+* **Public Sector Programs** which are any public programs or services using a trusted digital identity that is directly provided by a federal, provincial, territorial or municipal government. The services may include, but are not limited to: government sign-in services, online benefits delivery, or licensing and permits. Examples of trusted digital identity services used in this context are the [BC Services Card](https://www2.gov.bc.ca/gov/content/governments/government-id/bc-services-card) and [MyAlberta DigitalID](https://account.alberta.ca/) programs.
+* **Regulated Progams** which are any private sector or not-for-profit programs or services using a trusted digital identity that is subject to regulatory requirements such as **Know Your Client (KYC)**, or **Anti-Money Laundering (AML)**. These services include the broader public sector, not-for-profit organizations, and for-profit organizations subject to regulatory requiremens. Examples include, but are not limited to: educational institutions, open banking, insurance, health care, hospitals, or any commercially-available service. Examples of trusted digital services used in this context are the [Canada Post IdentityComplete](https://www.canadapost-postescanada.ca/cpc/en/business/postal-services/digital-proof-identity.page) program.
+* the scheme can also be used for **Trusted Programs** which are any programs that may not be specifically subject to a legislative or regulatory mandate, but rather employ industry best practices and is viable in the marketplace due to its stature, reputation and ability to meet the needs of their users.
 
 
-Decribed in [README.md](../README.md)
+For more detail, please go to [README.md](../README.md)
 
 # Description of Requirements
 
@@ -64,11 +67,13 @@ Decribed in [README.md](../README.md)
 
 # Methods to be used for determining fulfilment of the requirements
 
+Audit methodology is described in detail here [Audit Methods](./audit-methods.md)
+
 # Appropriateness of Methods
 
 # Decision on the conformity assessment activity
 
-# Appropriateness of Co
+
 
 
 
