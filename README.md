@@ -3,6 +3,7 @@
 Please note that the **national standard** [CAN/CIOSC 103-1: 20XX (Second Edition) | Digital Trust & Identity – Part 1](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust-fundamentals/) is currently available for **public review** until Sept 21, 2022. You can [comment on the draft](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust-fundamentals/) directly on the website (be sure to select the lower second button)
 ***
 
+
 ## Overview
 
 Digital Trust and Identity systems are emerging as critical infrastructure and now becoming the crucial underpinning of government and private sector digital services. To address the market need and to ensure confidence in these systems, CIOSC is developing conformity assessment schemes and has applied for accreditation with Standards Council of Canada.
