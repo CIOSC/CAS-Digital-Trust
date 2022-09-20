@@ -124,11 +124,11 @@ The report is reviewed as detailed in 4.1 and 40.2 above. A new certificate is i
 
 This instruction covers suspension procedures through withdrawal or cancellation of the certification certificate and revision of the register of approved firms.  
 
-Grounds for action are brought to the attention of the Quality Manager, who reviews the information and decides whether to proceed.  Either way, the he / she issues a letter to the client via registered mail / courier advising them of the details of the grounds for action and the decision on whether to proceed. 
+Grounds for action are brought to the attention of the Quality Manager, who reviews the information and decides whether to proceed.  Either way, they issue a letter to the client via registered mail / courier advising them of the details of the grounds for action and the decision on whether to proceed. 
 
 If the Quality Manager decides to proceed, the client must reply to CIOSC India within fourteen days of receipt of letter. 
 
-If the Quality Manager determines that the action or position contained in the client reply is satisfactory, he issues a letter stating this, and mails it to the client via registered mail. 
+If the Quality Manager determines that the action or position contained in the client reply is satisfactory, they issue a letter stating this, and mails it to the client via registered mail. 
 
 If actions are required, due dates must be set and Quality Manager  must review the actions at those times to ensure that they are effectively completed in order to prevent suspension or cancellation. 
 
