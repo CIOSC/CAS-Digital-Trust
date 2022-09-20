@@ -96,7 +96,11 @@ Details on [Staged Audits](staged-audits.md)
 
 Details on [Audit Methods](audit-methods.md)
 
+Details on [Audit and Certification Roles](./audit-cert-roles.md)
+
 Details on [Evidence and Evaluation](./evidence-evaluation.md)
+
+
 
 ### Risk Categories
 Potential risks and/or assurance level requirements may impact the duration and effort of the assessment.
