@@ -16,7 +16,7 @@ Please note that the terms audit/assessment and auditors/assessors are considere
 ## Certifying Authority
 * body that is accountable for ratifying the certification recommendation and approving the issuance of the certificate.
 
-## Certifcation Committee
+## Certification Committee
 * reponsible for endorsing the certification recommendation
 
 ## Certification Manager
