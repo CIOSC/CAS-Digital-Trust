@@ -23,7 +23,7 @@ The figure below illustrates the detailed audit process occuring over four major
 
 ## Iterative Assessment Methods
 The figure below illustrated an iterative assessment process that can be conducted through the audit process.
-* **Gather Evidence** gathering of evidence required for the assesment process.
+* **Gather Evidence** gathering of [evidence](evidence-evaluation.md) required for the assesment process.
 * **Tabulate Evidence** organizing of evidence; this may result in discovering gaps, inconsistencies which can be fed back into the gathering evidence process.
 * **Evaluate According to Assessment Scheme** evaluating the evidence according to the assessment scheme; this may result in additional evidence being required which can be fed back in the tabulate evidence process.
 * **Prepare and Issue Certificate** based on the outcomes of the assessment,
