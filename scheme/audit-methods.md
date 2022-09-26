@@ -8,9 +8,6 @@ The audit methods developed for this conformity assessment scheme combine establ
 
 Following is a description of the methods used.
 
-
-
-
 ## Detailed Assessment Methods
 The figure below illustrates the detailed audit process occuring over four major phases.
 
