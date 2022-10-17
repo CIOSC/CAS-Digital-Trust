@@ -20,7 +20,7 @@ This repository defines the conformity assessment scheme for **Trusted Digital I
 
 * The scope of the conformity assessment scheme and its application may be **broadened** to assesss a service or program in relation to assess the provision of additional attributes, required for the purposes of **eligibility** (beyond the strict defintion of *trusted digital identity*). Examples of additional attributes may include, *citizenship, *residential address*, *health status*, *income level*, *professional qualifications*, etc. 
 
-* The scope of the conformity assessment and its application may be **tailored** to assess a service or program with a specific applicability but having having the key components of digital trust and identity. An example would be a **trusted account** that is offered in conjuction with providing healthcare.
+* The scope of the conformity assessment and its application may be **tailored** to assess a service or program with a specific applicability but having having the key components of digital trust and identity. An example would be a **trusted account** that is offered in conjunction with providing healthcare.
 
 In all cases, scope and application must be agreed on and documented at the beginning of the assesment enagement.
 
