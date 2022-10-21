@@ -1,5 +1,7 @@
 # Conformity Assessment Scheme: Digital Trust and Identity for use by Public Sector and Regulated Programs
 
+![GitHub issues](https://img.shields.io/github/issues/CIOSC/CAS-DTI-PUB-REG)
+
 ***
 Please note that the **national standard** [CAN/CIOSC 103-1: 20XX (Second Edition) | Digital Trust & Identity – Part 1](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust-fundamentals/) is currently available for **public review** until Sept 21, 2022. You can [comment on the draft](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust-fundamentals/) directly on the website (be sure to select the lower second button)
 ***
