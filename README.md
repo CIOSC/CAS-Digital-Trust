@@ -3,7 +3,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/CIOSC/CAS-DTI-PUB-REG)
 
 ***
-Please note that the **national standard** [CAN/CIOSC 103-1: 20XX (Second Edition) | Digital Trust & Identity – Part 1](./docs/DRAFT-CAN-CIOSC-103-1-20XX_D1_TBDR.pdf) is currently available as a pre-published unofficial copy on this repo. The official copy will be published, once approved by ballot, on the [CIOSC website](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust-fundamentals/).
+Please note that the **national standard** [CAN/CIOSC 103-1: 20XX (Second Edition) | Digital Trust & Identity – Part 1](./docs/DRAFT-CAN_CIOSC-103-1-200XX_D1_2ndE.pdf) is currently available as a pre-published unofficial copy on this repo. The official copy will be published, once approved by ballot, on the [CIOSC website](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust-fundamentals/).
 ***
 
 ## Overview
