@@ -3,7 +3,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/CIOSC/CAS-DTI-PUB-REG)
 
 ***
-Please note that the **national standard** [CAN/CIOSC 103-1: 20XX (Second Edition) | Digital Trust & Identity – Part 1](./docs/DRAFT-CAN_CIOSC-103-1-200XX_D1_2ndE.pdf) is currently available as a pre-published unofficial copy on this repo. The official copy will be published, once approved by ballot, on the [CIOSC website](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust-fundamentals/).
+* Please note that the **national standard** [CAN/CIOSC 103-1: 20XX (Second Edition) | Digital Trust & Identity – Part 1](./docs/DRAFT-CAN_CIOSC-103-1-200XX_D1_2ndE.pdf) is currently available as a pre-published unofficial copy on this repo. The official copy will be published, once approved by ballot, on the [CIOSC website](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust-fundamentals/).
 ***
 
 
@@ -11,7 +11,14 @@ Please note that the **national standard** [CAN/CIOSC 103-1: 20XX (Second Editio
 
 Digital Trust and Identity systems are emerging as critical infrastructure and now becoming the crucial underpinning of government and private sector digital services. To address the market need and to ensure confidence in these systems, CIOSC is developing conformity assessment schemes and has applied for accreditation with Standards Council of Canada.
 
-This repository defines the conformity assessment scheme for **Trusted Digital Identities for use by Public Sector and Regulated Programs.** This scheme intended to applied in conjunction with the national standard [**CAN/CIOSC 103-1: Digital Trust and Identity**](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust-fundamentals/) (this link is to the current edition and of the standard a public preview of the next edition of the standard). This standard (and editions thereof) is based on the [**Public Sector Profile of the Pan-Canadian Trust Framework Version 1.4**](https://github.com/canada-ca/PCTF-CCP/tree/master/Version1_4)
+* This repository defines the conformity assessment scheme for **Trusted Digital Identities for use by Public Sector and Regulated Programs.**
+* This scheme intended to applied in conjunction with the national standard [**CAN/CIOSC 103-1: Digital Trust and Identity**](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust-fundamentals/) (this link is to the current edition and of the standard a public preview of the next edition of the standard). 
+* This scheme is based on lessons-learned and knowledge gained through the [**Public Sector Profile of the Pan-Canadian Trust Framework Version 1.4**](https://github.com/canada-ca/PCTF-CCP/tree/master/Version1_4). Material is being used under the [Open Government License](https://open.canada.ca/en/open-government-licence-canada)
+* This scheme embraces the principles intentions outlined in the [G20 2022 Ministerial Declaration Annex 3: Report Identifying Key Enablers on Digital Identity](./docs/G20_Digital_Economy_Ministers_Meeting_2022__1669033867.pdf)
+  * Effective design of digital identity
+  * Collaboration and coordination across the digital identity ecosystem
+  * Sustainable investments in digital identity
+  * Implementation: A fit for purpose regulatory framework for digital identity
 
 ### For the purposes of this conformity assessment scheme
 
