@@ -65,7 +65,7 @@ The scope of assessment is finalized as part of the assessment and certification
 * This scheme may be be applied in other contexts (international, domestic, etc.)
 * The scheme has been designed so that **minimal tailoring** is required for different contexts.
 
-## Scheme Extensions
+## Scheme Extensions and Evolution
 
 This scheme can be extended to related areas that are generalized or thematically similar to this scheme. THe following standards are being considered as scheme extensions:
 
@@ -74,6 +74,8 @@ This scheme can be extended to related areas that are generalized or thematicall
 * [CIOSC/PAS 100-4: 2020  |  Digital Governance – Part 4](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-data-governance/remote-access-infrastructure/)
 * [CIOSC/PAS 100-6  |  Digital Governance – Part 6](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-data-governance/responsible-use-of-digital-contact-tracing/)
 * [CAN/CIOSC 100-7:2022   |   Digital Governance – Part 7: Operating Model for Responsible Data Stewardship](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-data-governance/responsible-data-stewardship/)
+
+We also envision, over the longer-run, that this scheme will evolve into a more generalized Digital Trust Conformity Assessment Scheme with [profiles](./scheme/profiles/profiles-overview.md). This work is just beginning and will be informed by the pilot engagements.
 
 If you are interested in piloting a CIOSC standard for inclusion into the conformity assessment scheme, [please contact](https://ciostrategycouncil.com/contact/) us.  
 
