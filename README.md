@@ -71,10 +71,10 @@ The scope of assessment is finalized as part of the assessment and certification
 
 This scheme may be adapted and tailored to be applied the broader set of national standards that are thematically similar to this scheme. The following standards are being considered as scheme extensions:
 
-* [CAN/CIOSC 100-1: 2020 (Revised)  |  Digital Governance – Part 1](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-data-governance/data-centric-security/)
-* [CAN/CIOSC 100-2: 2020  |  Digital Governance – Part 2](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-data-governance/third-party-access-to-data/)
-* [CIOSC/PAS 100-4: 2020  |  Digital Governance – Part 4](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-data-governance/remote-access-infrastructure/)
-* [CIOSC/PAS 100-6  |  Digital Governance – Part 6](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-data-governance/responsible-use-of-digital-contact-tracing/)
+* [CAN/CIOSC 100-1: 2020 (Revised)  |  Data Governance – Part 1](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-data-governance/data-centric-security/)
+* [CAN/CIOSC 100-2: 2020  |  Data Governance – Part 2](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-data-governance/third-party-access-to-data/)
+* [CIOSC/PAS 100-4: 2020  |  Data Governance – Part 4](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-data-governance/remote-access-infrastructure/)
+* [CIOSC/PAS 100-6  |  Data Governance – Part 6](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-data-governance/responsible-use-of-digital-contact-tracing/)
 * [CAN/CIOSC 100-7:2022   |   Digital Governance – Part 7: Operating Model for Responsible Data Stewardship](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-data-governance/responsible-data-stewardship/)
 
 
