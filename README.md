@@ -67,7 +67,9 @@ The scope of assessment is finalized as part of the assessment and certification
 
 ## Scheme Extensions and Evolution
 
-This scheme can be extended to related areas that are generalized or thematically similar to this scheme. THe following standards are being considered as scheme extensions:
+### Immediate Term
+
+This scheme may be adapted and tailored to be applied the broader set of national standards that are thematically similar to this scheme. The following standards are being considered as scheme extensions:
 
 * [CAN/CIOSC 100-1: 2020 (Revised)  |  Digital Governance – Part 1](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-data-governance/data-centric-security/)
 * [CAN/CIOSC 100-2: 2020  |  Digital Governance – Part 2](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-data-governance/third-party-access-to-data/)

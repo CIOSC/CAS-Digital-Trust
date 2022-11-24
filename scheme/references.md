@@ -10,3 +10,7 @@ Links to references used in developing the scheme manual. References are not end
 ## Digital Identity
 
 * [Self-Sovereign Identity asa future privacy by design solution?](https://iapp.org/media/pdf/resource_center/self-sovereign-identity-whitepaper.pdf)
+
+## Digital Trust
+
+* [Trust over IP Deliverables](https://trustoverip.org/our-work/deliverables/)
