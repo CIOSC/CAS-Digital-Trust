@@ -77,6 +77,9 @@ This scheme may be adapted and tailored to be applied the broader set of nationa
 * [CIOSC/PAS 100-6  |  Digital Governance – Part 6](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-data-governance/responsible-use-of-digital-contact-tracing/)
 * [CAN/CIOSC 100-7:2022   |   Digital Governance – Part 7: Operating Model for Responsible Data Stewardship](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-data-governance/responsible-data-stewardship/)
 
+
+### Longer Term
+
 We also envision, over the longer-run, that this scheme will evolve into a more generalized Digital Trust Conformity Assessment Scheme with [profiles](./scheme/profiles/profiles-overview.md). This work is just beginning and will be informed by the pilot engagements.
 
 If you are interested in piloting a CIOSC standard for inclusion into the conformity assessment scheme, [please contact](https://ciostrategycouncil.com/contact/) us.  
