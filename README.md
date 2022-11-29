@@ -1,4 +1,4 @@
-# Conformity Assessment Scheme: Digital Trust for Public Sector and Regulated Programs
+# Conformity Assessment Scheme: Digital Trust for Public Sector Bodies, Regulated Programs, and Industry Services
 
 ![GitHub issues](https://img.shields.io/github/issues/CIOSC/CAS-DTI-PUB-REG)
 
