@@ -48,7 +48,7 @@ Certification is the formal outcome of a conformity assessment. However, certifi
 
 ## Conformity Assessment: A Primer
 
-Conformity assessment scheme documents available for direct download are found in this [folder](scheme). As these documents are subject to change, please note the [commit details](https://github.com/CIOSC/CAS-TDI-Public/commits/main) when you download. Alternatively, you can fork or: `git clone https://github.com/CIOSC/CAS-TDI-Public.git` to maintain your own copy of the repository.
+Conformity assessment scheme documents available for direct download are found in this [folder](scheme). As these documents are subject to change, please note the [commit details](https://github.com/CIOSC/CAS-TDI-Public/commits/main) when you download. Alternatively, you can fork or: `git clone https://github.com/CIOSC/CAS-Digital-Trust.git` to maintain your own copy of the repository.
 
 A [Primer Document](./PRIMER.md) is being developed for those who are unfamiliar with the standards development and certification process.
 
