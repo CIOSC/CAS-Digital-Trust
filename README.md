@@ -20,7 +20,7 @@ To facilitate the broad area of digital trust, yet allow for specialization, the
 
 Domains that are defined as sub-scopes, include, but are not limited to:
 
-* Digital Idenity]  
+* Digital Idenity  
 * Data governance
 * Open Banking
 * Cybersecurity
