@@ -14,18 +14,21 @@ Depending on the context, the main scope may be tailored for certification, for 
 
 ## Certification Sub-Scopes
 
+Due to the complexity of digital trust and evolving nature of the area, it is recognized that certifications may be relevant in multiple domains. Depending on the size and risk level of the applying organization and the resulting class level assigned (see Class Levels section), organizations may be required to demonstrate trust in more than one domain. However, organizations are not limited to the domains in their assigned class levels and are welcome to apply for as many sub-scopes as they deem appropriate. Each sub-scope achieved by an organization will be displayed on their certificate as per the terms of use.
+
 To facilitate the broad area of digital trust, yet allow for specialization, the certifications, include **sub-scopes** which correspond to a practice area or an operating domain of the applying party. As thes different area require different expertise, requirements and regulatory considerations, the sub-scopes are intended to demonstrate the applying parties’ established level of trust in their field.
 
 Domains that are defined as sub-scopes, include, but are not limited to:
 
-* Digital Identity  
-* Cybersecurity
+* Digital Idenity]  
 * Data governance
+* Open Banking
+* Cybersecurity
 * Sustainability (Green IT)
 * Technology Ethics
 * Artificial Intelligence
 
-Due to the complexity of digital trust and evolving nature of the area, it is recognized that certifications may be relevant in multiple domains. Depending on the size and risk level of the applying organization and the resulting class level assigned (see Class Levels section), organizations may be required to demonstrate trust in more than one domain. However, organizations are not limited to the domains in their assigned class levels and are welcome to apply for as many sub-scopes as they deem appropriate. Each sub-scope achieved by an organization will be displayed on their certificate as per the terms of use.
+For more details please go to the [Profiles Overview Page](./scheme/profiles/profiles-overview.md)
 
 ## Certification Tailoring
 
@@ -42,17 +45,6 @@ Certification is the formal outcome of a conformity assessment. However, certifi
 |Sub-Scope|Specified from the list above. |In the majority of cases, it will be one sub-scope only|
 |Tailoring|Documentation of tailoring|Including rationale for tailoring|
 |Caveats|Caveats|Provided by the issuing authority on how the certificate may be used or restricted|
-
-#
-## Scheme Extensions
-
-This scheme is now evolving into a more generalized Digital Trust Conformity Assessment Scheme with [profiles](./scheme/profiles/profiles-overview.md) to address sub-scopers. Over time, this scheme will be augmented with profiles that are tailored to be applied to the full set of national standards. The following standards are being considered as scheme extensions:
-
-* [CAN/CIOSC 100-1: 2020 (Revised)  |  Data Governance – Part 1](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-data-governance/data-centric-security/)
-* [CAN/CIOSC 100-2: 2020  |  Data Governance – Part 2](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-data-governance/third-party-access-to-data/)
-* [CIOSC/PAS 100-4: 2020  |  Data Governance – Part 4](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-data-governance/remote-access-infrastructure/)
-* [CIOSC/PAS 100-6  |  Data Governance – Part 6](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-data-governance/responsible-use-of-digital-contact-tracing/)
-* [CAN/CIOSC 100-7:2022   |   Digital Governance – Part 7: Operating Model for Responsible Data Stewardship](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-data-governance/responsible-data-stewardship/)
 
 ## Conformity Assessment: A Primer
 
