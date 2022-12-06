@@ -1,4 +1,4 @@
-# Certification Sub-scope: Digital Identity
+# Certification Sub-scope: Trusted Digital Identity
 
 ***
 
@@ -6,30 +6,31 @@
 
 ***
 
-## For the purposes of this conformity assessment scheme
+## For the purposes of this conformity assessment scheme sub-scope
+
+
 
 * a **Public Sector Programs** are any public programs or services that are directly provided by a federal, provincial, territorial or municipal government. The services may include, but are not limited to: government sign-in services, online benefits delivery, or licensing and permits. Examples of trusted digital identity services used in this context are the [BC Services Card](https://www2.gov.bc.ca/gov/content/governments/government-id/bc-services-card) and [MyAlberta DigitalID](https://account.alberta.ca/) programs.
 * a **Regulated Progams** are any private sector or not-for-profit programs or services using a trusted digital identity that is subject to regulatory requirements such as **Know Your Client (KYC)**, or **Anti-Money Laundering (AML)**. These services include the broader public sector, not-for-profit organizations, and for-profit organizations subject to regulatory requiremens. Examples include, but are not limited to: educational institutions, open banking, insurance, health care, hospitals, or any commercially-available service. Examples of trusted digital services used in this context are the [Canada Post IdentityComplete](https://www.canadapost-postescanada.ca/cpc/en/business/postal-services/digital-proof-identity.page) program.
 
-### Scheme Scope and Application
+### Scheme Sub-Scope and Application
 
-* The scope of the conformity assessment scheme and its application may be **restricted** to assess a service or program in relation to assessing a the provision of attributes related **trusted digital identity** only,or
+* The sub-scope of the conformity assessment scheme and its application may be **restricted** to assess a service or program in relation to assessing a the provision of attributes related **trusted digital identity** only,or
 
-* The scope of the conformity assessment scheme and its application may be **broadened** to assesss a service or program in relation to assess the provision of additional attributes, required for the purposes of **eligibility** (beyond the strict defintion of *trusted digital identity*). Examples of additional attributes may include, *citizenship*, *residential* *address*, *health* *status*, *income* *level*, *professional* *qualifications*, etc.
+* The sub-scope of the conformity assessment scheme and its application may be **broadened** to assesss a service or program in relation to assess the provision of additional attributes, required for the purposes of **eligibility** (beyond the strict defintion of *trusted digital identity*). Examples of additional attributes may include, *citizenship*, *residential* *address*, *health* *status*, *income* *level*, *professional* *qualifications*, etc.
 
-* The scope of the conformity assessment and its application may be **tailored** to assess a service or program with a specific applicability but having having the key components of digital trust and identity. An example would be a **trusted account** that is offered in conjunction with providing healthcare.
+* The sub-scope of the conformity assessment and its application may be **tailored** to assess a service or program with a specific applicability but having having the key components of digital trust and identity. An example would be a **trusted account** that is offered in conjunction with providing healthcare.
 
 In all cases, scope and application must be agreed on and documented at the beginning of the assesment enagement.
 
-
 ## Overview
 
-Digital Trust and Identity systems are emerging as critical infrastructure and now becoming the crucial underpinning of government and private sector digital services. To address the market need and to ensure confidence in these systems, CIOSC is developing conformity assessment schemes and has applied for accreditation with Standards Council of Canada.
+Trusted Digital Identity systems are emerging as critical infrastructure and now becoming the crucial underpinning of government and private sector digital services. To address the market need and to ensure confidence in these systems, CIOSC is developing conformity assessment schemes and has applied for accreditation with Standards Council of Canada.
 
-* This repository defines the conformity assessment scheme for **Trusted Digital Identities for use by Public Sector and Regulated Programs.**
+* This repository defines the conformity assessment scheme sub-scope for **Trusted Digital Identities for use by Public Sector and Regulated Programs.**
 * This scheme intended to applied in conjunction with the national standard [**CAN/CIOSC 103-1: Digital Trust and Identity**](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust-fundamentals/) (this link is to the current edition and of the standard a public preview of the next edition of the standard). 
-* This scheme is based on lessons-learned and knowledge gained through the [**Public Sector Profile of the Pan-Canadian Trust Framework Version 1.4**](https://github.com/canada-ca/PCTF-CCP/tree/master/Version1_4). Material is being used under the [Open Government License](https://open.canada.ca/en/open-government-licence-canada)
-* This scheme embraces the principles intentions outlined in the [G20 2022 Ministerial Declaration Annex 3: Report Identifying Key Enablers on Digital Identity](./docs/G20_Digital_Economy_Ministers_Meeting_2022__1669033867.pdf)
+* This sub-scope is based on lessons-learned and knowledge gained through the [**Public Sector Profile of the Pan-Canadian Trust Framework Version 1.4**](https://github.com/canada-ca/PCTF-CCP/tree/master/Version1_4). Material is being used under the [Open Government License](https://open.canada.ca/en/open-government-licence-canada)
+* This sub-scope embraces the principles intentions outlined in the [G20 2022 Ministerial Declaration Annex 3: Report Identifying Key Enablers on Digital Identity](./docs/G20_Digital_Economy_Ministers_Meeting_2022__1669033867.pdf)
   * Effective design of digital identity
   * Collaboration and coordination across the digital identity ecosystem
   * Sustainable investments in digital identity
@@ -41,23 +42,23 @@ Digital Trust and Identity systems are emerging as critical infrastructure and n
 
 This standard specifies minimum requirements and a set of controls for creating and maintaining trust in digital systems and services that, as part of an Organization’s mandate, assert and/or consume Identity and Credentials in data pertaining to Persons and Organizations. This standard may be applied to digital systems and services that are used within an identity context, and/or to those that are used and applied across identity contexts i.e., in a Credential and/or Identity federation.
 
-## Scope of Scheme
+## Scheme Sub-scop
 
-The scope of the scheme **Trusted Digital Identities for use by Public Sector Services** may include part or all the following:
+The sub-scope of the scheme **Trusted Digital Identities for use by Public Sector Services** may include part or all the following:
 
 * **Persons**: all citizens and residents of a jurisdiction (including deceased persons) for whom an identity has been established within a jurisdiction.
 * **Organizations**: all organizations registered within a jurisdiction (including inactive organizations) for which an identity has been established within that jurisdiction; and/or,
 * **Relationships**: of persons to persons, organizations to organizations, and persons to organizations.
 
-The scope of assessment is finalized as part of the assessment and certification engagement.This is detailed in the [Scheme Manual](./scheme/scheme-manual.md) currently under development.
+The sub-scope of the conformity assessment is finalized as part of the assessment and certification engagement.This is detailed in the [Scheme Manual](./scheme/scheme-manual.md) currently under development.
 
-## Intended Application of Scheme
+## Intended Application of Scheme Sub-Scope
 
-* This scheme is intended to be used in conjunction with, but not limited to, **accredited conformity assessment bodies and standards**.
-* This scheme is **technology-agnostic** and defined in a manner to allow for the **impartial assessment** of different platforms, services, architectures, and technologies. As such, this scheme does not recommend one technology solution over another.  
-* This scheme **does not confer authority** and is intended to work with **existing legal, policy and governance frameworks**.
-* This scheme may be be applied in other contexts (international, domestic, etc.)
-* The scheme has been designed so that **minimal tailoring** is required for different contexts.
+* This scheme sub-scope is intended to be used in conjunction with, but not limited to, **accredited conformity assessment bodies and standards**.
+* This scheme sub-scopeis **technology-agnostic** and defined in a manner to allow for the **impartial assessment** of different platforms, services, architectures, and technologies. As such, this scheme does not recommend one technology solution over another.  
+* This scheme sub-scope **does not confer authority** and is intended to work with **existing legal, policy and governance frameworks**.
+* This scheme sub-scope may be be applied in other contexts (international, domestic, etc.)
+* The scheme sub-scope has been designed so that **tailoring** is can be approriately for different contexts.
 
 ## Stakeholders and Users
 
