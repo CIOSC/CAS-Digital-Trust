@@ -6,9 +6,11 @@ This scheme is now evolving into a more generalized Digital Trust Conformity Ass
 
 Profiles currently being developed through pilot engagements.
 
-* [Trusted Digital Identity Profile](./digital-identity-profile.md)
-* [Data Governance Profile](data-governance-profile.md)
-* [Open Finance Profile](./110-1-open-finance.md)
+|Digital Trust Profile|Applicable Standards|
+|---|---|
+|[Trusted Digital Identity](./digital-identity-profile.md)|103-1|
+|[Data Governance](data-governance-profile.md)|100-1, 100-4|
+|[Open Finance](./open-finance.md)|110-1|
 
 ## Standards Under Consideration
 
