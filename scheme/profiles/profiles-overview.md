@@ -6,7 +6,7 @@ This scheme is now evolving into a more generalized Digital Trust Conformity Ass
 
 Profiles currently being developed through pilot engagements.
 
-|Digital Trust Profile|Applicable Standards|
+|Digital Trust Profile|Applicable CIOSC Standards|
 |---|---|
 |[Trusted Digital Identity](./digital-identity-profile.md)|103-1|
 |[Data Governance](data-governance-profile.md)|100-1, 100-4|

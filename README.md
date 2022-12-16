@@ -46,6 +46,10 @@ Certification is the formal outcome of a conformity assessment. However, certifi
 |Tailoring|Documentation of tailoring|Including rationale for tailoring|
 |Caveats|Caveats|Provided by the issuing authority on how the certificate may be used or restricted|
 
+## Validation and Verification
+
+This conformity assessment scheme may be applied in conjunction with [ISO/IEC 17029:2019 Conformity Assessment](https://www.iso.org/standard/29352.html) for activities relating to performing [validation/verification](./scheme/validation-verification.md) as conformity assessment activities.
+
 ## Conformity Assessment: A Primer
 
 Conformity assessment scheme documents available for direct download are found in this [folder](scheme). As these documents are subject to change, please note the [commit details](https://github.com/CIOSC/CAS-TDI-Public/commits/main) when you download. Alternatively, you can fork or: `git clone https://github.com/CIOSC/CAS-Digital-Trust.git` to maintain your own copy of the repository.
