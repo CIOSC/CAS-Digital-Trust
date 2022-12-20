@@ -30,6 +30,10 @@ Domains that are defined as sub-scopes, include, but are not limited to:
 
 For more details please go to the [Profiles Overview Page](./scheme/profiles/profiles-overview.md)
 
+## Certification Specialization
+
+Specialization refers to the process of focusing on a specific area conformity assessment that requires a detailed assessment of a specific area of management, capability, product or process. Depending on the nature of the specialization, it may or may not be part of a certification scope or certification sub-scope.
+
 ## Certification Tailoring
 
 Certification is the formal outcome of a conformity assessment. However, certification is not a binary case of *conformining* or *non-conforming*. Many factors may be involved in determining the scopeDuring the certification process, the conformity assessment scheme may be tailored to indicate and accomondate the following:
@@ -43,6 +47,7 @@ Certification is the formal outcome of a conformity assessment. However, certifi
 |---|---|---|
 |Main Scope|Digital Trust|This will be the main scope in all cases, with rare exceptions|
 |Sub-Scope|Specified from the list above. |In the majority of cases, it will be one sub-scope only|
+|Specialization|A specific area of conformity assessment|
 |Tailoring|Documentation of tailoring|Including rationale for tailoring|
 |Caveats|Caveats|Provided by the issuing authority on how the certificate may be used or restricted|
 
