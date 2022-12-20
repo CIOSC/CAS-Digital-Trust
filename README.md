@@ -41,7 +41,7 @@ Certification is the formal outcome of a conformity assessment. However, certifi
 * **Full Conformance** Full conformance is achieved by demonstrating that all of the requirements (i.e., SHALL statements) of the chosen (non-empty) set of techniques and correspoding test coverange measurement approaches have been satisfied.
 * **Tailored Conformance** Tailored conformance is achieved by demonstrating that the chosen subset of requirements from the chosen (non-empty) set of techniques and corresponding test coverage measurement approaches have been satisfied. Where tailoring occurs, justification shall be provided (either directly or by reference)
 
-## Final Certificate Scope, Sub-Scope and Tailoring
+## Final Certificate Scope, Sub-Scope, Specialization and Tailoring
 
 |Component|Description|Details|
 |---|---|---|
