@@ -47,7 +47,7 @@ Certification is the formal outcome of a conformity assessment. However, certifi
 |---|---|---|
 |Main Scope|Digital Trust|This will be the main scope in all cases, with rare exceptions|
 |Sub-Scope|Specified from the list above. |In the majority of cases, it will be one sub-scope only|
-|Specialization|A specific area of conformity assessment|
+|Specialization|A specific area of conformity assessment|Depending on the nature, a specialization may, or may not be, part of a Main Scope and/or Sub-Scope|
 |Tailoring|Documentation of tailoring|Including rationale for tailoring|
 |Caveats|Caveats|Provided by the issuing authority on how the certificate may be used or restricted|
 
