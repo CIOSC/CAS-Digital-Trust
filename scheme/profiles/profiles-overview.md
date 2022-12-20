@@ -1,16 +1,19 @@
 # Scheme Profiles Overview
 
-This scheme is now evolving into a more generalized Digital Trust Conformity Assessment Scheme with profiles. Over time, the scheme will be augmented with profiles to be applied against the full set of national standards.
+This scheme is now evolving into a more generalized [Digital Trust](digital-trust-main-scope.md) Conformity Assessment Scheme with profiles. Over time, the scheme will be augmented with profiles to be applied against the full set of national standards.
 
 ## Profiles in development
 
 Profiles currently being developed through pilot engagements.
 
-|Digital Trust Profile|Applicable CIOSC Standards|
-|---|---|
-|[Trusted Digital Identity](./digital-identity-profile.md)|[103-1](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust-fundamentals/), [103-2](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust/)|
-|[Data Governance](data-governance-profile.md)|[100-1](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-data-governance/data-centric-security/), [100-4](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-data-governance/remote-access-infrastructure/)|
-|[Open Finance](./open-finance.md)|[110-1](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-open-finance/can-ciosc-110-1-open-finance-part-1-customer-experience/)|
+|Scheme Profile|Applicable CIOSC Standard|Sub-Scope|Specialization|Caveats|
+|---|---|---|---|---|
+|[Trusted Digital Identity](./digital-identity-profile.md)|[103-1](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust-fundamentals/)|Digital Identity|
+||[103-2](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust/)|Digital Identity|Health Care|
+|[Data Governance](data-governance-profile.md)|[100-1](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-data-governance/data-centric-security/)|Data Governance|Data-Centric Security
+|| [100-4](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-data-governance/remote-access-infrastructure/)|Scalable Remote Access Infrastructure|
+|| [100-7](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-data-governance/responsible-data-stewardship/)|Responsible Data Stewardship|
+|[Open Finance](./open-finance-profile.md)|[110-1](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-open-finance/can-ciosc-110-1-open-finance-part-1-customer-experience/)|
 
 ## Standards Under Consideration
 
