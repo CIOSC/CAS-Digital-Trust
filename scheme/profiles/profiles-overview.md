@@ -8,9 +8,9 @@ Profiles currently being developed through pilot engagements.
 
 |Digital Trust Profile|Applicable CIOSC Standards|
 |---|---|
-|[Trusted Digital Identity](./digital-identity-profile.md)|103-1|
-|[Data Governance](data-governance-profile.md)|100-1, 100-4|
-|[Open Finance](./open-finance.md)|110-1|
+|[Trusted Digital Identity](./digital-identity-profile.md)|[103-1](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust-fundamentals/), [103-2](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust/)|
+|[Data Governance](data-governance-profile.md)|[100-1](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-data-governance/data-centric-security/), [100-4](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-data-governance/remote-access-infrastructure/)|
+|[Open Finance](./open-finance.md)|[110-1](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-open-finance/can-ciosc-110-1-open-finance-part-1-customer-experience/)|
 
 ## Standards Under Consideration
 

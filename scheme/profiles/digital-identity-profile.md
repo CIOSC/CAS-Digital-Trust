@@ -93,8 +93,7 @@ The sub-scope of the conformity assessment is finalized as part of the assessmen
 * [Public Sector Profile of the Pan-Canadian Trust Framework Version 1.4](https://github.com/canada-ca/PCTF-CCP/tree/master/Version1_4)
 * [Conformity Assessment Tools to Support Public Policy](https://casco.iso.org/techniques-and-schemes.html)
 
-
-### Related Public Policies
+### Related Public Sector Guidance and Policies
 
 * [Treasury Board of Canada Directive on Identity Management](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=16577)
-
+* [NIST SP 800-63-4 Digital Identity Guidelines Draft](https://csrc.nist.gov/publications/detail/sp/800-63/4/draft)
