@@ -12,11 +12,11 @@ Depending on the context, the main scope may be tailored for certification, for 
 * Adaptation to the relevant context of digital ecosystems and communities
 * Accomodation of needs of specific stakeholders
 
-## Certification Sub-Scopes
+## Certification Sub-Scope
 
 Due to the complexity of digital trust and evolving nature of the area, it is recognized that certifications may be relevant in multiple domains. Depending on the size and risk level of the applying organization and the resulting class level assigned (see Class Levels section), organizations may be required to demonstrate trust in more than one domain. However, organizations are not limited to the domains in their assigned class levels and are welcome to apply for as many sub-scopes as they deem appropriate. Each sub-scope achieved by an organization will be displayed on their certificate as per the terms of use.
 
-To facilitate the broad area of digital trust, yet allow for specialization, the certifications, include **sub-scopes** which correspond to a practice area or an operating domain of the applying party. As thes different area require different expertise, requirements and regulatory considerations, the sub-scopes are intended to demonstrate the applying parties’ established level of trust in their field.
+To facilitate the broad area of digital trust, yet allow for meaningful and targetted conformity assessments, certification scheme includes **sub-scopes** which correspond to a practice area or an operating domain of the applying party. As thes different area require different expertise, requirements and regulatory considerations, the sub-scopes are intended to demonstrate the applying parties’ established level of trust in their field.
 
 Domains that are defined as sub-scopes, include, but are not limited to:
 
@@ -32,7 +32,7 @@ For more details please go to the [Profiles Overview Page](./scheme/profiles/pro
 
 ## Certification Specialization
 
-Specialization refers to the process of focusing on a specific area conformity assessment that requires a detailed assessment of a specific area of management, capability, product or process. Depending on the nature of the specialization, it may or may not be part of a certification scope or certification sub-scope.
+Specialization, in addition to a sub-scope allows for a narrower focus on a specific area of conformity assessment that requires a detailed and specialized assessment of a targeted area of management, capability, product or process. Depending on the nature of the specialization, it may or may not be part of a certification scope or certification sub-scope.
 
 ## Certification Tailoring
 
