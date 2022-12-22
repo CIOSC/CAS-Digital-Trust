@@ -8,6 +8,7 @@ Profiles currently being developed through pilot engagements.
 
 |Scheme Profile|Applicable Standard(s)|Sub-Scope|Specialization|Caveats|
 |---|---|---|---|---|
+|[Ethical Design](./ethical-design-and-automated-decision.md)|[CAN/CIOSC 101](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-automated-decision-systems-ai/cisoc101/)|Ethical Design|
 |[Trusted Digital Identity](./digital-identity-profile.md)|[CAN/CIOSC 103-1](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust-fundamentals/)|Digital Identity|
 ||[CAN/CIOSC 103-2](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-trust/digital-trust/)|Digital Identity|Health Care|
 |[Data Governance](data-governance-profile.md)|[CAN/CIOSC 100-1](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-data-governance/data-centric-security/)|Data Governance|Data-Centric Security
