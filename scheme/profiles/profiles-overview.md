@@ -25,4 +25,3 @@ The following standards are being considered for profiles:
 * [CIOSC/PAS 100-4: 2020  |  Data Governance – Part 4](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-data-governance/remote-access-infrastructure/)
 * [CIOSC/PAS 100-6  |  Data Governance – Part 6](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-data-governance/responsible-use-of-digital-contact-tracing/)
 * [CAN/CIOSC 100-7:2022   |   Digital Governance – Part 7: Operating Model for Responsible Data Stewardship](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-data-governance/responsible-data-stewardship/)
-
