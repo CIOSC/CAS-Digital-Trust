@@ -18,7 +18,7 @@ For purchasers, the digital trust scheme can be used assist in the overall digit
 
 ## Organizational Size and Risk Levels
 
-|Risk Category|Low Risk|Medium Risk|High Risk|
+|Organizational Size / Risk Category|Low Risk|Medium Risk|High Risk|
 |---|---|---|---|
 |Small (1-25 emps)|Class 1|Class 2|Class 3|
 |Medium(25-250 emps)|Class 2|Class 3|Class 4|
