@@ -32,7 +32,7 @@ For purchasers, the digital trust scheme can be used assist in the overall digit
 
 ### Assessment Class Levels
 
-* **Class 1: Role-Based Approach** - Assessment is carried out with respect to the client's role within a digital ecosystem. This is similar to treating the client organization as a black box, focusing on the characteristics which interact and have impact on other actors in the digital ecosystem.
+* **Class 1: Trust-Based Approach** - Assessment is carried out with respect to the client's trusted role within a digital ecosystem. This is similar to treating the client organization as a black box, focusing on the characteristics which interact and have impact on other actors in the digital ecosystem.
 * **Class 2: System-Based Approach** - Assessment is carried out with respect to the overall client system which includes prioritized selected internal controls.
-* **Class 3: Substantive-Procedures Approach** Assessment is carried out on controls and procedures that are considered substantive part of the system.
+* **Class 3: Substantive-Controls Approach** Assessment is carried out on controls and procedures that are considered substantive part of the system.
 * **Class 4: Comprehensive-Controls Approach** Assessment is carried out on all controls and procedures including those controls and procedures may be part of supporting and/or oversight functions.
