@@ -94,3 +94,8 @@ The sub-scope of the conformity assessment is finalized as part of the assessmen
 
 * [Treasury Board of Canada Directive on Identity Management](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=16577)
 * [NIST SP 800-63-4 Digital Identity Guidelines Draft](https://csrc.nist.gov/publications/detail/sp/800-63/4/draft)
+
+### Industry and Trade Associations
+
+* [US: Better Identity Coalition](https://www.betteridentity.org/)
+* [CAN: DIACC Pan-Canadian Trust Framework](https://diacc.ca/trust-framework/)
