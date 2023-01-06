@@ -81,3 +81,18 @@ The following table provides a mapping to the the assessment class levels
 |Small (1-25 emps)|Class 1|Class 2|Class 3|
 |Medium(25-250 emps)|Class 2|Class 3|Class 4|
 |Large (> 250 emps)|Class 3|Class 4|Class 4|
+
+### Tailoring Digital Trust Assessments
+
+There is no 'one-fits-all approach'. In scoping out a digital trust assessment, the following steps are undertaken
+
+|Component|Tailoring Considerations|
+|---|---|
+|Main Scope|No Tailoring: Digital Trust in all cases.|
+|Sub-Scope|Addition of Domain|
+|Specialization|Addition of Specialization within Domain|
+|Tailoring|Full/Tailored Conformace based on **Assessment Class Level|
+|Caveats|Following from the above|
+
+
+
