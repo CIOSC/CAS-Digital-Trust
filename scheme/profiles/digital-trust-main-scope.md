@@ -4,27 +4,62 @@
 
 Digital trust refers to the confidence that people have in the security, reliability, and integrity of digital systems, devices, and services. It is an important concept in the digital age, as more and more aspects of our lives are mediated by technology and the internet.
 
-There are several factors that contribute to digital trust, including the security of digital systems and devices, the privacy and confidentiality of personal information, the reliability and availability of digital services, and the transparency and accountability of the organizations that provide them. Building and maintaining digital trust requires ongoing efforts to protect against cyber threats, ensure the privacy and security of personal information, and be transparent and accountable in the use of digital technologies.
+There are numerous factors that contribute to digital trust, including the security of digital systems and devices, the privacy and confidentiality of personal information, the reliability and availability of digital services, and the transparency and accountability of the organizations that provide them. Building and maintaining digital trust requires ongoing efforts to protect against cyber threats, ensure the privacy and security of personal information, and be transparent and accountable in the use of digital technologies.
 
 In order for individuals and organizations to feel confident in using digital systems and services, it is important for these systems to be secure, reliable, and trustworthy. This requires ongoing efforts to protect against cyber threats, ensure the privacy and security of personal information, and be transparent and accountable in the use of digital technologies.
 
+## Digital Trust Interoperability
+
+Digital trust interoperability refers to the ability of different organizations, programs, systems and technologies to work together in a way that allows people to decide to trust and rely on the information and services provided by those systems. Depending on the context, this can involve a variety of different components, such as ensuring that different systems use common standards and protocols for exchanging data, that there are clear and transparent processes in place for verifying the accuracy and reliability of the information being shared, and that there are measures in place to protect privacy and security.
+
+Digital trust interoperability is important because it helps to ensure that different organizations and systems can work together effectively and that people can rely on the information and services that they provide.
+
 ## Digital Trust Conformity Assessment Scheme
 
-The Digital Trust conformity assessment scheme is intended to facilitate trust in the digital world. To achieve this, the scheme incorporates certification sub-scopes and specializations under a single umbrella - digital trust.
+The Digital Trust conformity assessment scheme is intended to facilitate trust interoperablity in the digital world - or digital trust interoperabilty - as described in the previous section. To achieve this, the conformity assessment scheme incorporates certification sub-scopes and specializations that fit under a single umbrella - digital trust.
 
-For suppliers, the digital trust scheme can be used to showcase their compliance to one or more recognized standards, certifications, accreditations, audit programs, and best practices.
+* For suppliers, the digital trust scheme can be used to showcase their compliance to one or more recognized standards, certifications, accreditations, audit programs, and best practices.
 
-For purchasers, the digital trust scheme can be used assist in the overall digital ecosystem performance and procurement efficiency by quickly and easily identifying organizations that commit to standards, certifications and trust signals that are important to them.
+* For purchasers, the digital trust scheme can be used assist in the overall digital ecosystem performance and procurement efficiency by quickly and easily identifying organizations that commit to standards, certifications and trust signals that are important to them.
 
-## Organizational Size and Risk Levels
+## Complementing Trust Frameworks
 
-|Organizational Size / Risk Category|Low Risk|Medium Risk|High Risk|
-|---|---|---|---|
-|Small (1-25 emps)|Class 1|Class 2|Class 3|
-|Medium(25-250 emps)|Class 2|Class 3|Class 4|
-|Large (> 250 emps)|Class 3|Class 4|Class 4|
+A trust framework is a set of guidelines, principles, and standards that are used to establish and maintain trust between different parties. Trust frameworks can be used in a variety of contexts, such as between businesses, between organizations and their customers, or between government agencies and the public.
+
+Similarly, a conformity assessment scheme is a set of procedures, standards, and guidelines that are used to evaluate whether a product, service, or system meets certain specified requirements or standards.
+
+In many ways, trust frameworks and conformity assessment schemes can be seen as the same things - there are overlaps, but there are key differences:
+
+Conformity assessment schemes are oriented toward *outputs*, while trrust frameworks are oriented more towards *outcomes*. Outputs refer to the products, services, or other tangible results that are generated by a system or process. Outcomes, on the other hand, refer to the broader effects or consequences of a system or process.
+
+While there is no hard and fast distinction, outputs gengerally refer to tangible results of products and services. Outcomes typically refer to results that are intangible or long-term in nature and are more difficult a to measure and quantify.
+
+The Digital Trust conformity assessment scheme is intended to support existing and emerging trust frameworks. Trust frameworks over time may evolve into standards and conformity assessment schemes as is case of the [Public Sector Profile of the Pan-Canadian Trust Framework](https://github.com/canada-ca/PCTF-CCP/tree/master/Version1_4) which forms the basis of [Trusted Digital Identity Profile](./digital-identity-profile.md)
+
+## Organizational Size and Risk Level
+
+Presently, two main factors have been identified, which determine the **Assessment Class Level** (described in following section):
+
+* Organizational Size
+* Risk Level
+
+### Organizational Size
+
+There are several ways to measure the size of an organization, and the most appropriate method will depend on the specific context and the goals of the measurement. Common ways to measure organizational size, include:
+
+* **Number of employees:** This is a simple and straightforward way to measure the size of an organization. It can be useful for comparing the size of different organizations or for tracking the growth of a single organization over time.
+
+* **Revenue:** The revenue generated by an organization can be a useful measure of its size, especially for businesses. It is important to note, however, that revenue does not necessarily reflect the size of the organization in terms of the number of employees or the scope of its operations.
+
+* **Asset value:** The value of an organization's assets, such as buildings, equipment, and investments, can be another way to measure its size. This approach is more relevant for organizations that have significant physical assets, such as manufacturing companies or real estate firms.
+
+* **Market share:** For organizations operating in a specific market, the market share held by the organization can be a useful measure of its size. Market share reflects the proportion of the total market served by the organization and can be calculated based on various metrics, such as sales, number of customers, or number of units sold.
+
+For the purposes of the conformity assessment scheme, **number of employees** is used as the key metric.
 
 ### Risk Categories
+
+Risk levels refer to the likelihood or probability of a particular event or outcome occurring. Risk levesl are used to convey the relative importance or severity of the risk and to guide decision-making and risk management activities.
 
 * **Low Risk** General business operating general legislative requirements and information is not considered to be critical.
 * **Medium Risk** Entities that deal in large amounts of data, medical services, security services, financial services, telecommunication services, cloud service provision, PII processing and critical public services/infrastructure.
@@ -32,7 +67,17 @@ For purchasers, the digital trust scheme can be used assist in the overall digit
 
 ### Assessment Class Levels
 
-* **Class 1: Trust-Based Approach** - Assessment is carried out with respect to the client's trusted role within a digital ecosystem. This is similar to treating the client organization as a black box, focusing on the characteristics which interact and have impact on other actors in the digital ecosystem.
-* **Class 2: System-Based Approach** - Assessment is carried out with respect to the overall client system which includes prioritized selected internal controls.
-* **Class 3: Substantive-Controls Approach** Assessment is carried out on controls and procedures that are considered substantive part of the system.
-* **Class 4: Comprehensive-Controls Approach** Assessment is carried out on all controls and procedures including those controls and procedures may be part of supporting and/or oversight functions.
+A **assesment class level** refers to the relative effort or thoroughness required to arrive at appropriately-founded conclusions. Depending on the class level, different methodologies and techniques may be employed. The reason for the different levels is to facilitate an objectively appropriate approach based on key factors, which have been identified as organizational size and risk level (note: these factors may expand as the conformity assessment scheme evolves)
+
+* **Class 1: Role-Based Approach -**  Assessment is carried out with respect to the client's role and expected behaviours within a trusted digital ecosystem. This is similar to treating the client organization as a black box, focusing on the characteristics which interact and have impact on other actors in the digital ecosystem.
+* **Class 2: System-Based Approach -** Assessment is carried out with respect to the overall client system which includes prioritized selected controls.
+* **Class 3: Substantive-Controls Approach -** Assessment is carried out on controls and procedures that are considered substantive part of the system.
+* **Class 4: Comprehensive-Controls Approach -** Assessment is carried out on all controls and procedures including those controls and procedures may be part of supporting and/or oversight functions.
+
+The following table provides a mapping to the the assessment class levels
+
+|Organizational Size / Risk Category|Low Risk|Medium Risk|High Risk|
+|---|---|---|---|
+|Small (1-25 emps)|Class 1|Class 2|Class 3|
+|Medium(25-250 emps)|Class 2|Class 3|Class 4|
+|Large (> 250 emps)|Class 3|Class 4|Class 4|
