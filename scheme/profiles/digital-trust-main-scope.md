@@ -8,6 +8,10 @@ There are numerous factors that contribute to digital trust, including the secur
 
 In order for individuals and organizations to feel confident in using digital systems and services, it is important for these systems to be secure, reliable, and trustworthy. This requires ongoing efforts to protect against cyber threats, ensure the privacy and security of personal information, and be transparent and accountable in the use of digital technologies.
 
+## Digital Trust Certification
+
+Digital trust certification is more than just an outcome of a certification process, or a mark of trustworthiness. It is a demonstration that certain standards or criteria have been met in the context of being recoginized as a reputable actor within the digital realm. Consideration of the digital realm is important because it can extend and have effect across many legal and political jurisidictions having varying levels of regulation and enforcement. Digital trust certification is intended to complement existing certification schemes by taking into the account the evolving nature of the digital realm including: codes of practice, new requirements, normative principles and emerging practices.
+
 ## Digital Trust Interoperability
 
 Digital trust interoperability refers to the ability of different organizations, programs, systems and technologies to work together in a way that allows people to decide to trust and rely on the information and services provided by those systems. Depending on the context, this can involve a variety of different components, such as ensuring that different systems use common standards and protocols for exchanging data, that there are clear and transparent processes in place for verifying the accuracy and reliability of the information being shared, and that there are measures in place to protect privacy and security.
@@ -86,13 +90,11 @@ The following table provides a mapping to the the assessment class levels
 
 There is no 'one-fits-all approach'. In scoping out a digital trust assessment, the following steps are undertaken
 
-|Component|Tailoring Considerations|
+|Component|Certification Considerations|
 |---|---|
 |Main Scope|No Tailoring: Digital Trust in all cases.|
-|Sub-Scope|Addition of Domain|
-|Specialization|Addition of Specialization within Domain|
-|Tailoring|Full/Tailored Conformace based on **Assessment Class Level|
-|Caveats|Following from the above|
-
-
+|Sub-Scope|Addition of Domain|Tailoring based on practices, codes, etc., accepted within the domain|
+|Specialization|Restriction of scope to a specifialization within a domain|
+|Tailoring|Further tailoring based on **Assessment Class Level**|
+|Caveats|Any caveats resulting from the preceding|
 
