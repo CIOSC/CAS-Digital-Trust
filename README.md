@@ -75,4 +75,5 @@ If you are interested in piloting a CIOSC standard for inclusion into the confor
 [Public Statement](./public-information/README.md) | [License](./LICENSE.md)
 ***
 
-![CIOSC Logo](./assets/ciosc-logo-blk.png)
+![DGG Logo](./assets/dgc-logos/DGC_LOGOS_DGC_LOGO_2C.png)
+
