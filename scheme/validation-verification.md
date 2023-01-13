@@ -4,7 +4,7 @@
 
 Validation and verification as conformity assessment are understood to be a confirmation of reliability of information declared in claims. Other terms in use for the object of assessment by validation and verification are “statement”, “declaration”, “assertion”, “prediction” or “report”.
 
-**Validation** and **Verificatin** are distinguished according to the timeline of the assessed claims:
+**Validation** and **Verification** are distinguished according to the timeline of the assessed claims:
 
 * **Validation** applies to claims regarding an intended future use or projected outcome (confirmation of plausibility)
 * **Verfication** applies to claims regarding events that have already occurred or results that have already been obtained (confirmation of truthfulness)
