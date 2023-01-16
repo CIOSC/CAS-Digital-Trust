@@ -73,7 +73,9 @@ The sub-scope of the conformity assessment is finalized as part of the assessmen
 
 * **Relying Parties** who are accountable to providing high-value services to individuals and organizations in a **safe, secure, and inclusive** manner.
 * **Programs or business units** who are accountable for issuing trusted digital identities for persons that are intended for use by public sector programs.
-* **Independend Auditors** wishing to provide conformity assessment or related services.
+* **Independent Auditors** wishing to provide conformity assessment or related services.
+
+## Health Care
 
 ## Acknowledgements
 
@@ -94,6 +96,7 @@ The sub-scope of the conformity assessment is finalized as part of the assessmen
 
 * [Treasury Board of Canada Directive on Identity Management](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=16577)
 * [NIST SP 800-63-4 Digital Identity Guidelines Draft](https://csrc.nist.gov/publications/detail/sp/800-63/4/draft)
+* [Information and Privacy Commissioner of Ontario Privacy by Design Principles](https://www.ipc.on.ca/wp-content/uploads/resources/7foundationalprinciples.pdf)
 
 ### Industry and Trade Associations
 
