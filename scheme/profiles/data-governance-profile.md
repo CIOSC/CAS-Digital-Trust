@@ -9,3 +9,13 @@ Data governance aims to ensure that data is collected, used, and shared in a way
 Effective data governance is important for organizations of all sizes, as it helps to ensure that data is used in a responsible and ethical manner, and helps to protect the privacy and security of individuals whose data is being collected and used.
 
 This profile sets out the fundamental characteristics and attributes required of data protection systems. It includes measures to protect data while it is being held on a server and while it is being transferred between IT systems and/or organizations.
+
+## Data-Centric Security
+
+TODO
+
+## Scalable Remote Access Infrastructure
+
+TODO
+
+## Responsible Data Stewardship
