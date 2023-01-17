@@ -78,4 +78,3 @@ If you are interested in piloting a CIOSC standard for inclusion into the confor
 ***
 
 ![DGG Logo](./assets/dgc-logos/DGC_LOGOS_DGC_LOGO_2C.png)
-
