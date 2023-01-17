@@ -1,8 +1,8 @@
 # Scheme Profiles Overview
 
-This scheme is now evolving into a more generalized [Digital Trust](digital-trust-main-scope.md) Conformity Assessment Scheme with profiles. Over time, the scheme will be augmented with profiles to be applied against the full set of national standards.
+Schemes (or assessment scheme profiles) is now evolving as components that are components of a generalized [Digital Trust](digital-trust-main-scope.md) Conformity Assessment Scheme. Over time, the scheme will be augmented with profiles to be applied against the full set of national standards.
 
-## Profiles in development
+## Assessment Schemes Profiles in development
 
 Profiles currently being developed through pilot engagements.
 

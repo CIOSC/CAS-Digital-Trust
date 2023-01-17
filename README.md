@@ -2,11 +2,11 @@
 
 ![GitHub issues](https://img.shields.io/github/issues/CIOSC/CAS-DTI-PUB-REG)
 
-## Certification Main Scope
-
 [Quick Link to Assessment Schemes](./scheme/profiles/profiles-overview.md)
 
-The main scope of certification is [Digital Trust](./scheme/profiles/digital-trust-main-scope.md) This main scope is intended to be applied in the broader context of digital truste comprising of **organizational capablities** along with **technological capabilitie** working together to provide an overall confidence in a product, process, service, or any defined activity or undertaking. This main scope is also designed to recognize applicants who have obtained and are maintaining certifications that they are: 1) abiding by agreed-on principles and, 2) meeting specific requirements that they can be regarded as trusted actors within the digital ecosystems within which they operate. The main scope is also intended to streamline the commonalities across domains, reducing duplicative requirements.
+## Certification Main Scope
+
+The main scope of certification is [Digital Trust](./scheme/profiles/digital-trust-main-scope.md) This main scope is intended to be applied in the broader context of digital trust comprising of **organizational capablities** along with **technological capabilities** working together to provide an overall confidence in a product, process, service, or any defined activity or undertaking. This main scope is also designed to recognize applicants who have obtained and are maintaining certifications that they are: 1) abiding by agreed-on principles and, 2) meeting specific requirements that they can be regarded as trusted actors within the digital ecosystems within which they operate. The main scope is also intended to streamline the commonalities across domains, reducing duplicative requirements.
 
 Depending on the context, the main scope may be tailored for certification, for example:
 
@@ -30,7 +30,7 @@ Domains that are defined as sub-scopes, include, but are not limited to:
 * Technology Ethics
 * Artificial Intelligence
 
-For more details please go to the [Profiles Overview Page](./scheme/profiles/profiles-overview.md)
+For more details please go to the [Assesment Schemes Page](./scheme/profiles/profiles-overview.md)
 
 ## Certification Specialization
 

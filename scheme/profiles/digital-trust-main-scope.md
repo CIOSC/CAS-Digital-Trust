@@ -4,6 +4,8 @@
 
 Digital trust refers to the confidence that people have in the security, reliability, and integrity of digital systems, devices, and services. It is an important concept in the digital age, as more and more aspects of our lives are mediated by technology and the internet.
 
+Digital trust is overall expectation that digital technologies and services, including the organizations that provide these technologies and services will protect all stakeholders’ interests and uphold societal expectations and values.
+
 There are numerous factors that contribute to digital trust, including the security of digital systems and devices, the privacy and confidentiality of personal information, the reliability and availability of digital services, and the transparency and accountability of the organizations that provide them. Building and maintaining digital trust requires ongoing efforts to protect against cyber threats, ensure the privacy and security of personal information, and be transparent and accountable in the use of digital technologies.
 
 In order for individuals and organizations to feel confident in using digital systems and services, it is important for these systems to be secure, reliable, and trustworthy. This requires ongoing efforts to protect against cyber threats, ensure the privacy and security of personal information, and be transparent and accountable in the use of digital technologies.
@@ -82,9 +84,9 @@ The following table provides a mapping to the the assessment class levels
 
 |Organizational Size / Risk Category|Low Risk|Medium Risk|High Risk|
 |---|---|---|---|
-|Small (1-25 emps)|Class 1|Class 2|Class 3|
-|Medium(25-250 emps)|Class 2|Class 3|Class 4|
-|Large (> 250 emps)|Class 3|Class 4|Class 4|
+|Small (< 100  emps)|Class 1|Class 2|Class 3|
+|Medium(< 500 emps)|Class 2|Class 3|Class 4|
+|Large (> 500 emps)|Class 3|Class 4|Class 4|
 
 ### Tailoring Digital Trust Assessments
 
@@ -98,3 +100,6 @@ There is no 'one-fits-all approach'. In scoping out a digital trust assessment, 
 |Tailoring|Further tailoring based on **Assessment Class Level**|
 |Caveats|Any caveats resulting from the preceding|
 
+[References]
+
+* [World Economic Forum: Earning Digital Trust](https://www3.weforum.org/docs/WEF_Earning_Digital_Trust_2022.pdf)
