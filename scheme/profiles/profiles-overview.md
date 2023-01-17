@@ -17,3 +17,7 @@ Profiles currently being developed through pilot engagements.
 |Cybersecurity|Baseline Controls for SMEs|[Baseline Controls for SMEs](./baseline-cybersecurity-controls.md)|[CAN/CIOSC 104](./baseline-cybersecurity-controls.md)
 ||Industrial Internet of Things|[Industrial Internet of Things](./industrial-internet-of-things.md)|[CAN/CIOSC 105](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-cybersecurity/cybersecurity-iiot/)
 |Open Finance|Customer Experience|[Customer Experience](./open-finance-profile.md)|[CAN/CIOSC 110-1](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-open-finance/can-ciosc-110-1-open-finance-part-1-customer-experience/)|
+
+## Accreditation
+
+Please see our [Public Statements](/public-information/README.md) regarding certification and accreditation

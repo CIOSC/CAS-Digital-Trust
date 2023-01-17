@@ -8,7 +8,7 @@ To ensure that impartiality is both maintained and can be demonstrated, CIOSC ha
 
 This video provides an overview of [17021-1 Management System](https://youtu.be/EYx2QrKqiT8) in place as an accredited conformity assessment body.
 
-# Public Information
+## Public Information
 
 * [Audit Processes](./audit-program.md)
 * [Certification](./suspend-withdraw-reduce-scope-certification.md)
