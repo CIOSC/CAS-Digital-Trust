@@ -1,10 +1,10 @@
-# Scheme Profiles Overview
+# Assessment Schemes
 
-Schemes (or assessment scheme profiles) is now evolving as components that are components of a generalized [Digital Trust](digital-trust-main-scope.md) Conformity Assessment Scheme. Over time, the scheme will be augmented with profiles to be applied against the full set of national standards.
+Assessment schemes (or scheme profiles) used for certification are components of a generalized [Digital Trust Conformity Assessment Scheme.](digital-trust-main-scope.md).  
 
-## Assessment Schemes Profiles in development
+## Assessment Schemes Under Development
 
-Profiles currently being developed through pilot engagements.
+Assessment schemes currently being developed through pilot engagements.
 
 |Topic|Sub-Scope|Scheme Name and Focus|Applicable Standards|
 |---|---|---|---|
@@ -20,4 +20,4 @@ Profiles currently being developed through pilot engagements.
 
 ## Accreditation
 
-Please see our [Public Statements](/public-information/README.md) regarding certification and accreditation
+Please see our [Public Statements](/public-information/README.md) regarding certification and accreditation using the assessment schemes above.
