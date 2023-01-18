@@ -17,15 +17,24 @@ As a result of a successful assessment, the following certificate is granted:
 |---|---|---|
 |CAN/CIOSC 103-1:20XX|Digital Trust and Identity: Part 1 Fundamentals|Official Version|
 
+## Sub-Scope: Trusted Digital Identity
 
-## Details
+A **trusted digital identity** (TDI)is an electronic representation of a person, used exclusively by that same person to receive valued services and to carry out transactions with trust and confidence. A TDI may be accepted in accordance with:
+
+* relevant legislation/regulations
+* applicable standards,
+* conformity assessment schemes (this scheme),
+* trust frameworks,
+* mutual recognition agreements
+
+### Specialization and Focus
+
+This scheme is intended to be applied for the following:
 
 * a **Public Sector Programs** are any public programs or services that are directly provided by a federal, provincial, territorial or municipal government. The services may include, but are not limited to: government sign-in services, online benefits delivery, or licensing and permits. Examples of trusted digital identity services used in this context are the [BC Services Card](https://www2.gov.bc.ca/gov/content/governments/government-id/bc-services-card) and [MyAlberta DigitalID](https://account.alberta.ca/) programs.
 * a **Regulated Progams** are any private sector or not-for-profit programs or services using a trusted digital identity that is subject to regulatory requirements such as **Know Your Client (KYC)**, or **Anti-Money Laundering (AML)**. These services include the broader public sector, not-for-profit organizations, and for-profit organizations subject to regulatory requiremens. Examples include, but are not limited to: educational institutions, open banking, insurance, health care, hospitals, or any commercially-available service. Examples of trusted digital services used in this context are the [Canada Post IdentityComplete](https://www.canadapost-postescanada.ca/cpc/en/business/postal-services/digital-proof-identity.page) program.
 
-### Scheme Sub-Scope and Application
-
-* The sub-scope of the conformity assessment scheme and its application may be **restricted** to assess a service or program in relation to assessing a the provision of attributes related **trusted digital identity** only,or
+* The sub-scope of the conformity assessment scheme and its application may be further **restricted** to assess a specialized service or program in relation to assessing a the provision of attributes related **trusted digital identity** only,or
 
 * The sub-scope of the conformity assessment scheme and its application may be **broadened** to assesss a service or program in relation to assess the provision of additional attributes, required for the purposes of **eligibility** (beyond the strict defintion of *trusted digital identity*). Examples of additional attributes may include, *citizenship*, *residential* *address*, *health* *status*, *income* *level*, *professional* *qualifications*, etc.
 
