@@ -2,7 +2,7 @@
 
 ## Certificate Grant
 
-As a result of a successful assessment, the following certificate is granted:
+As a result of a successful assessment, the following certificate may be granted:
 
 |Certificate Component|Description|
 |---|---|
