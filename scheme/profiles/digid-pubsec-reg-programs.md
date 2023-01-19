@@ -1,27 +1,12 @@
 # Scheme Name: Trusted Digital Identity: Public Sector and Regulated Programs
 
-## Certificate Grant
+[Back to Asssessment Schemes](./profiles-overview.md)
 
-As a result of a successful assessment, the following certificate may be granted:
-
-|Certificate Component|Description|
-|---|---|
-|Main Scope|Digital Trust|
-|Topic|Digital Identity|
-|Sub-Scope|Trusted Digital Identity|
-|Focus|Public Sector and Regulated Programs|
-|Assessment Class Level|Determined by Engagement|
-|Caveats|Determined during course of assessment|
-
-|Applicable Standard|Description|Link|
-|---|---|---|
-|CAN/CIOSC 103-1:20XX|Digital Trust and Identity: Part 1 Fundamentals|Official Version|
-
-## Sub-Scope: Trusted Digital Identity
+## Certificate Sub-Scope: Trusted Digital Identity
 
 Trusted Digital Identity systems are emerging as critical infrastructure and now becoming the crucial underpinning of government and private sector digital services. To address the market need and to ensure confidence in these systems.
 
-A **trusted digital identity** (TDI)is an electronic representation of a person, used exclusively by that same person to receive valued services and to carry out transactions with trust and confidence. A TDI may be accepted in accordance with:
+A **trusted digital identity** (TDI)is an electronic representation of a person, used exclusively by that same person to [label](https://ciostrategiccouncil-my.sharepoint.com/personal/tim_bouma_ciostrategycouncil_com/_layouts/15/onedrive.aspx?login_hint%3Dtim.bouma%40ciostrategycouncil.com)receive valued services and to carry out transactions with trust and confidence. A TDI may be accepted in accordance with:
 
 * relevant legislation/regulations
 * applicable standards,
@@ -38,6 +23,50 @@ A **trusted digital identity** (TDI)is an electronic representation of a person,
   * Sustainable investments in digital identity
   * Implementation: A fit for purpose regulatory framework for digital identity
 
+## Assessment Scheme Overview
+
+This assessment scheme:
+
+* is intended to be used in conjunction with, but not limited to, **accredited conformity assessment bodies and standards**.
+* is **technology-agnostic** and defined in a manner to allow for the **impartial assessment** of different platforms, services, architectures, and technologies. As such, this scheme does not recommend one technology solution over another.  
+* **does not confer authority** and is intended to work with **existing legal, policy and governance frameworks**.
+* may be be applied in other contexts (international, domestic, etc.)
+* has been designed so that **tailoring** is approriate for different contexts.
+
+## Certificate Grant
+
+This assessment scheme may used for the following certificate grant:
+
+|Certificate Component|Description|
+|---|---|
+|Main Scope|Digital Trust|
+|Topic|Digital Identity|
+|Sub-Scope|Trusted Digital Identity|
+|Focus|Public Sector and Regulated Programs|
+|Assessment Class Level|Determined by Engagement|
+|Caveats|Determined during course of assessment|
+
+### Applicable Standards
+
+|Applicable Standard|Description|Link|
+|---|---|---|
+|CAN/CIOSC 103-1:20XX|Digital Trust and Identity: Part 1 Fundamentals|Official Version|
+
+### Accreditation
+
+This assessment scheme may be used to grant certificates by conformity assesment bodies accredited in accordance with the following standards:
+
+* ISO 17021
+* ISO 17029
+
+### Other Applications
+
+This assessment scheme may be used to support the following activities:
+
+* Readiness Assessment
+* Program Design
+*
+
 ### Specialization and Focus
 
 This scheme is intended to be applied for the following:
@@ -53,14 +82,6 @@ This scheme is intended to be applied for the following:
 
 In all cases, scope and application must be agreed on and documented at the beginning of the assesment enagement.
 
-## Overview
-
-## Applicable Standards
-
-* CAN/CIOSC 103-1: 20XX (Second Edition) | Digital Trust & Identity – Part 1 Fundamentals
-
-This standard specifies minimum requirements and a set of controls for creating and maintaining trust in digital systems and services that, as part of an Organization’s mandate, assert and/or consume Identity and Credentials in data pertaining to Persons and Organizations. This standard may be applied to digital systems and services that are used within an identity context, and/or to those that are used and applied across identity contexts i.e., in a Credential and/or Identity federation.
-
 ## Scheme Sub-scop
 
 The sub-scope of the scheme **Trusted Digital Identities for use by Public Sector Services** may include part or all the following:
@@ -72,12 +93,6 @@ The sub-scope of the scheme **Trusted Digital Identities for use by Public Secto
 The sub-scope of the conformity assessment is finalized as part of the assessment and certification engagement.This is detailed in the [Scheme Manual](./scheme/scheme-manual.md) currently under development.
 
 ## Intended Application of Scheme Sub-Scope
-
-* This scheme sub-scope is intended to be used in conjunction with, but not limited to, **accredited conformity assessment bodies and standards**.
-* This scheme sub-scopeis **technology-agnostic** and defined in a manner to allow for the **impartial assessment** of different platforms, services, architectures, and technologies. As such, this scheme does not recommend one technology solution over another.  
-* This scheme sub-scope **does not confer authority** and is intended to work with **existing legal, policy and governance frameworks**.
-* This scheme sub-scope may be be applied in other contexts (international, domestic, etc.)
-* The scheme sub-scope has been designed so that **tailoring** is can be approriately for different contexts.
 
 ## Stakeholders and Users
 
@@ -95,10 +110,6 @@ The sub-scope of the conformity assessment is finalized as part of the assessmen
 * **Independent Auditors** wishing to provide conformity assessment or related services.
 
 ## Health Care
-
-## Acknowledgements
-
-* This document contains information licensed under the **Open Government Licence – Canada**. Details of the licence can be found at:  <https://open.canada.ca/en/open-government-licence-canada>
 
 ## References
 
@@ -121,3 +132,7 @@ The sub-scope of the conformity assessment is finalized as part of the assessmen
 
 * [US: Better Identity Coalition](https://www.betteridentity.org/)
 * [CAN: DIACC Pan-Canadian Trust Framework](https://diacc.ca/trust-framework/)
+
+## Acknowledgements
+
+* This document contains information licensed under the **Open Government Licence – Canada**. Details of the licence can be found at:  <https://open.canada.ca/en/open-government-licence-canada>
