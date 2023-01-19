@@ -22,11 +22,10 @@ This is a global scheme intended to apply within different jurisdictions and con
 
 Scheme description and purpose are found in the [README](../README.md)
 
-
-
 ### 4.1 Applicability
 
 The following standards are used to set out the requirements used in the scheme.
+
 * CAN/CIOSC 103-1 Digital Trust and Identity Part 1: Fundamentals
 * CAN/CIOSC 103-2 Digital Trust and Identity Part 2: Healthcare
 
@@ -34,9 +33,9 @@ An organization can review the applicability of requirements due to the size or 
 
 An organization may assess the requirements in conjunction with a selected *trust framework*. Depending on the trust framework, it may affect how the requirements are interpreted and the effort to assess the requirements.
 
-
 ### 4.2 Exclusions
-Organization may exclude specific requirements that are deemed not applicable or out of scope of the organization's mandate. 
+
+Organization may exclude specific requirements that are deemed not applicable or out of scope of the organization's mandate.
 
 Exclusions should be confirmed before preparing the quotation and verified at the initial assessment.
 
@@ -45,48 +44,52 @@ All exclusions must be reflected in assessment and resulting certification.
 ## 5 Audit Approach
 
 ### Audit Engagement
+
 The lead auditor should:
+
 * communicate the relevant parts of the assessment engagement, including the risks and opportunities
 * define objectives, scope and criteria, for each asssessment
 * agree on audit methods
-
 
 ### Objects of Conformity
 
 [Objects of conformity](./objects-of-conformity.md) are used to select and specify the requirements to be assessed.
 
-
 ### Assessment Time Determination
 
-In determining the audit time (duration and/or effort), among other things, the following aspects are considered before proceeding: 
+In determining the audit time (duration and/or effort), among other things, the following aspects are considered before proceeding:
 
-* the requirements of the relevant management system standard; 
-* complexity of the client and its management system; 
-* technological and regulatory context; 
-* any outsourcing of any activities included in the scope of the management system; 
-* the results of any prior audits; 
-* size and number of sites, their geographical locations and multi-site considerations; 
-* the risks associated with the products, processes or activities of the organization; 
-* whether audits are combined, joint or integrated. 
+* the requirements of the relevant management system standard;
+* complexity of the client and its management system;
+* technological and regulatory context;
+* any outsourcing of any activities included in the scope of the management system;
+* the results of any prior audits;
+* size and number of sites, their geographical locations and multi-site considerations;
+* the risks associated with the products, processes or activities of the organization;
+* whether audits are combined, joint or integrated.
 
 **Assessment duration** estimate is based on an agreed timeline with the client. Duration estimates should consider factors, such as:
+
 * Client schedule availablity and constraints
 * Resource avaialability and contstraints
 * Risks
 * ...
 
 **Assessment effort** estimate is based on full-time-equivaltants (FTEs). Assessment effort should consider factors, such as:
+
 * Scope of assessment
 * Degree of assesment
 * Risks
 
 **Factors which may increase assessment duration and effort**
+
 * Logistics that may involving more than one geographical location where efforts are carried out.
 * Multiple languages requiring interpreters or preventing individual auditors from working independently
 * Outsourced functions or processes
 * Highly complex processes or high number of unique activities
 
 **Factors which may reduce assessment duration and effort**
+
 * Maturity of management system
 * Prior knowledge of management system (e.g. already certified to another standard)
 * Client preparedness
@@ -100,18 +103,14 @@ Details on [Audit and Certification Roles](./audit-cert-roles.md)
 
 Details on [Evidence and Evaluation](./evidence-evaluation.md)
 
-
-
 ### Risk Categories
 Potential risks and/or assurance level requirements may impact the duration and effort of the assessment.
-
 
 ## 6 Accreditation and Impartiality Requirements
 
 The scope of the CIOSC accredition is granted by different accreditation bodies listed at the following link:
 
 ## 7 Competence Requirements
-
 
 ### 7.1 Public Sector Services
 

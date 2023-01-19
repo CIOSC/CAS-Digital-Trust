@@ -44,7 +44,7 @@ This assessment scheme may used for the following certificate grant:
 |Sub-Scope|Trusted Digital Identity|
 |Focus|Public Sector and Regulated Programs|
 |Assessment Class Level|Determined by Engagement|
-|Caveats|Determined during course of assessment|
+|Caveats|Persons, Organizations, Relationships|
 
 ### Applicable Standards
 
@@ -82,17 +82,15 @@ This scheme is intended to be applied for the following:
 
 In all cases, scope and application must be agreed on and documented at the beginning of the assesment enagement.
 
-## Scheme Sub-scop
+## Caveats
 
-The sub-scope of the scheme **Trusted Digital Identities for use by Public Sector Services** may include part or all the following:
+The assessment scheme may be limited or restricted in scope to one or all the following:
 
 * **Persons**: all citizens and residents of a jurisdiction (including deceased persons) for whom an identity has been established within a jurisdiction.
 * **Organizations**: all organizations registered within a jurisdiction (including inactive organizations) for which an identity has been established within that jurisdiction; and/or,
 * **Relationships**: of persons to persons, organizations to organizations, and persons to organizations.
 
-The sub-scope of the conformity assessment is finalized as part of the assessment and certification engagement.This is detailed in the [Scheme Manual](./scheme/scheme-manual.md) currently under development.
-
-## Intended Application of Scheme Sub-Scope
+.This is detailed in the [Scheme Manual](./scheme/scheme-manual.md) currently under development.
 
 ## Stakeholders and Users
 
@@ -111,14 +109,12 @@ The sub-scope of the conformity assessment is finalized as part of the assessmen
 
 ## Health Care
 
+Under development
+This assessement scheme may be used in conjunction with CAN/CIOSC 103-2:2021 Digital Trust and Identity - Part 2
+
 ## References
 
-### Normative References
-
 * CAN/CIOSC 103-1 Digital Trust and Identity: Fundamentals. [Preview Draft of 2nd edition for Public Review](./docs/DOCS.md)
-
-### Informative References
-
 * [Public Sector Profile of the Pan-Canadian Trust Framework Version 1.4](https://github.com/canada-ca/PCTF-CCP/tree/master/Version1_4)
 * [Conformity Assessment Tools to Support Public Policy](https://casco.iso.org/techniques-and-schemes.html)
 
