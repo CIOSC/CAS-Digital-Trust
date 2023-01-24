@@ -56,9 +56,11 @@ Presently, two main factors have been identified to determine the **Assessment C
 * Entity Type
 * Risk Impact Level
 
-### Entity Type
+### Entity Class
 
-* **Participant Entity** a participant in the ecosystem
+The class of entity in relation to the digital trust ecosystem:
+
+* **Participant Entity** an actor who is an ordinary participant in the ecosystem
 * **Significant Entity** an actor having significant influence in the ecosystem
 * **Auhtoritative Entity** an actor having authority (e.g., government)
 
@@ -71,12 +73,9 @@ Risk levels refer to the likelihood or probability of a particular event or outc
 * **Limited Impact** The risk may impact the actor and its direct relationshsips only.
 * **Broader Impact** The risk may impact beyond the actor, to others having an indirect relationship or to a broader network or community.
 * **Systemic Impact** The risk may impact the entire system rather than individual actors, networks or communities within the system.
-
-
-
 The following table provides a mapping to the the assessment class levels
 
-|Entity Type / Risk Impact Category|Limited Impact|Broader Impact|Systemic|
+|Entity Class / Risk Impact Category|Limited Impact|Broader Impact|Systemic|
 |---|---|---|---|
 |Participant Entity |Class 1|Class 2|Class 3|
 |Significant Entity|Class 2|Class 3|Class 4|
