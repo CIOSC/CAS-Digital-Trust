@@ -11,7 +11,8 @@ Upon successful conformity assessment, the following digital trust certificate i
 |Main Scope|Digital Trust|
 |Sub-Scope|Data Governance|
 |Focus|Responsible Data Stewardship|
-|Caveats|Determined during assessment process|
+|Assessment Class Level|Determined at outset of assessment engagement
+|Caveats|Determined during assessment engagement|
 
 ## Certificate Sub-Scope: Data Governance
 
