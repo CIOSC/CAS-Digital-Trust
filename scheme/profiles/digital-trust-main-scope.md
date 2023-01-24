@@ -73,7 +73,10 @@ Risk levels refer to the likelihood or probability of a particular event or outc
 * **Limited Impact** The risk may impact the actor and its direct relationshsips only.
 * **Broader Impact** The risk may impact beyond the actor, to others having an indirect relationship or to a broader network or community.
 * **Systemic Impact** The risk may impact the entire system rather than individual actors, networks or communities within the system.
-The following table provides a mapping to the the assessment class levels
+
+### Determing Assessment Class Level
+
+The following table provides a mapping to determine the assessment class level
 
 |Entity Class / Risk Impact Category|Limited Impact|Broader Impact|Systemic|
 |---|---|---|---|
