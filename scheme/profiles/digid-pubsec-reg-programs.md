@@ -114,13 +114,23 @@ This assessement scheme may be used in conjunction with CAN/CIOSC 103-2:2021 Dig
 
 ## References
 
+### Enabling Legislation, Regulations and Policies
+
+
+* [CA Treasury Board of Canada Directive on Identity Management](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=16577)
+* [EU Proposed Amendments No 910/2014 as regards establishing a framework for a European Digital Identity](https://www.europarl.europa.eu/doceo/document/ITRE-AM-734285_EN.html)
+
+### Applicable International and National Standards
+
 * CAN/CIOSC 103-1 Digital Trust and Identity: Fundamentals. [Preview Draft of 2nd edition for Public Review](./docs/DOCS.md)
+
+### Relevant Trust Frameworks
+
 * [Public Sector Profile of the Pan-Canadian Trust Framework Version 1.4](https://github.com/canada-ca/PCTF-CCP/tree/master/Version1_4)
+
+### Applicable Guidance 
+
 * [Conformity Assessment Tools to Support Public Policy](https://casco.iso.org/techniques-and-schemes.html)
-
-### Related Public Sector Guidance and Policies
-
-* [Treasury Board of Canada Directive on Identity Management](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=16577)
 * [NIST SP 800-63-4 Digital Identity Guidelines Draft](https://csrc.nist.gov/publications/detail/sp/800-63/4/draft)
 * [Information and Privacy Commissioner of Ontario Privacy by Design Principles](https://www.ipc.on.ca/wp-content/uploads/resources/7foundationalprinciples.pdf)
 
