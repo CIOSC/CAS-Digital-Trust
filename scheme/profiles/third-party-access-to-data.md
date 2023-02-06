@@ -1,6 +1,8 @@
 # Scheme Name: Third-Party Access to Data
 
-This assessment scheme determines the conformity assessments requirements for data institutions to engage in third-party access to data.
+This scheme is used to conduct a conformity assesment against standard requirements for granting and controlling third-party access to data.
+
+This scheme applies to all organizations, including public and private companies, government entities,and not-for-profit organizations.
 
 ## Certificate Grant
 
@@ -18,3 +20,6 @@ Upon successful conformity assessment, the following digital trust certificate i
 
 ## Focus: Third-Party Access to Data
 
+## References
+
+* [AICPA Trust Services Criteria](https://www.aicpa.org/resources/download/2017-trust-services-criteria-with-revised-points-of-focus-2022)
