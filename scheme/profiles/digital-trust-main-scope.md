@@ -14,6 +14,23 @@ In order for individuals and organizations to feel confident in using digital sy
 
 Digital trust certification is more than just an outcome of a certification process, or a mark of trustworthiness. It is a demonstration that certain standards or criteria have been met in the context of being recoginized as a reputable actor within the digital realm. Consideration of the digital realm is important because it can extend and have effect across many legal and political jurisidictions having varying levels of regulation and enforcement. Digital trust certification is intended to complement existing certification schemes by taking into the account the evolving nature of the digital realm including: codes of practice, new requirements, normative principles and emerging practices.
 
+## Digital Trust Principles
+
+Using the broadest brush, digital trust is based on a common foundation of principles. In a digital world, individuals must be able to trust that their privacy is protected, that their data will not be misused, and that enitities communicate in a simple and straightforward manner with their users.
+
+As a starting point, the digital trust certification program would abide by 10 principles tailored from [Canada's Digital Charter](https://www.ic.gc.ca/eic/site/062.nsf/%20eng/h_00108.html):
+
+1. Universal Access
+2. Safety and Security
+3. Control and Consent
+4. Transparency, Portability and Interoperability
+5. Open and Modern Digital Government (Governance)
+6. A Level Playing Field
+7. Data and Digital for Good
+8. Strong Democracy
+9. Free from Hate and Violent Extremism
+10. Strong Enforcement and Accountability
+
 ## Digital Trust Interoperability
 
 Digital trust interoperability refers to the ability of different organizations, programs, systems and technologies to work together in a way that allows people to decide to trust and rely on the information and services provided by those systems. Depending on the context, this can involve a variety of different components, such as ensuring that different systems use common standards and protocols for exchanging data, that there are clear and transparent processes in place for verifying the accuracy and reliability of the information being shared, and that there are measures in place to protect privacy and security.

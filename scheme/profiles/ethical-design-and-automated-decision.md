@@ -11,4 +11,3 @@ Ethical design is an important consideration in a wide range of fields, includin
 Automated decision-making refers to the use of computer algorithms and other automated processes to make decisions or recommendations, without the direct involvement of a human. These decisions can be made based on data that has been collected and analyzed by the system, and may be used to make recommendations or take actions in a variety of contexts.
 
 Automated decision-making systems can help to process large amounts of data quickly and efficiently. However, they also raise concerns about bias and accountability, as they may make decisions based on incomplete or biased data, or in ways that are difficult for humans to understand or explain. As a result, it is important to carefully consider the ethical implications of automated decision-making systems, and to ensure that they are designed and used in a way that is fair and transparent.
-
