@@ -40,10 +40,7 @@ Specialization, in addition to a sub-scope allows for a narrower focus on a spec
 
 Certification is the formal outcome of a conformity assessment. However, certification is not a binary case of *conformining* or *non-conforming*. Many factors may be involved in determining the scopeDuring the certification process, the conformity assessment scheme may be tailored to indicate and accomondate the following:
 
-* **Full Conformance** Full conformance is achieved by demonstrating that all of the requirements (i.e., SHALL statements) of the chosen (non-empty) set of techniques and correspoding test coverange measurement approaches have been satisfied.
-* **Tailored Conformance** Tailored conformance is achieved by demonstrating that the chosen subset of requirements from the chosen (non-empty) set of techniques and corresponding test coverage measurement approaches have been satisfied. Where tailoring occurs, justification shall be provided (either directly or by reference)
-
-This tailoring is formalized by means of determing a **Class Level**
+This tailoring is formalized by means of determing an **Assessment Class Level**
 
 ## Final Certificate Scope, Sub-Scope, Specialization and Tailoring
 
@@ -51,8 +48,8 @@ This tailoring is formalized by means of determing a **Class Level**
 |---|---|---|
 |Main Scope|Digital Trust|This will be the main scope in all cases, with rare exceptions|
 |Sub-Scope|Specified from the list above. |In the majority of cases, it will be one sub-scope only|
-|Specialization|A specific area of conformity assessment|Depending on the nature, a specialization may, or may not be, part of a Main Scope and/or Sub-Scope|
-|Assessment Class Level|Based on assessment approach|Based on organizational size and risk level|
+|Focus/Specialization|A specific area of conformity assessment|Depending on the nature, a specialization may, or may not be, part of a Main Scope and/or Sub-Scope|
+|Assessment Class Level|Based on assessment approach|Based on entity class and risk impact level|
 |Caveats|Caveats|Provided by the issuing authority on how the certificate may be used or restricted|
 
 ## Validation and Verification

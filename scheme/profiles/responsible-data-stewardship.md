@@ -17,4 +17,3 @@ Upon successful conformity assessment, the following digital trust certificate i
 ## Certificate Sub-Scope: Data Governance
 
 ## Focus: Responsible Data Stewardship
-
