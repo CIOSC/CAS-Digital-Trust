@@ -7,7 +7,7 @@ Validation and verification as conformity assessment are understood to be a conf
 **Validation** and **Verification** are distinguished according to the timeline of the assessed claims:
 
 * **Validation** applies to claims regarding an intended future use or projected outcome (confirmation of plausibility)
-* **Verfication** applies to claims regarding events that have already occurred or results that have already been obtained (confirmation of truthfulness)
+* **Verification** applies to claims regarding events that have already occurred or results that have already been obtained (confirmation of truthfulness)
 
 As with any conformity assessment process, validation and verification include a decision on the confirmation of the claim. The decision as to whether (or not) the claim conforms with the specified requirements is then issued by the validation/verification body as the validation/verification statement. The specified requirements can be general or detailed, e.g. the claim being free from material misstatements. The applicable programme can define additional steps within the validation/verification process.
 
