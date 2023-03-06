@@ -1,10 +1,8 @@
 # Conformity Assessment Scheme: Digital Trust for Public Sector Bodies, Regulated Programs, and Industry Services
 
-**FOR THE LATEST CHANGES, PLEASE VISIT THE REPOS ON OUR NEW [DIGITAL GOVERNANCE COUNCIL PAGE](https://github.com/dgc-cgn.org)**
-
-
-
 ![GitHub issues](https://img.shields.io/github/issues/CIOSC/CAS-DTI-PUB-REG)
+
+**FOR THE LATEST CHANGES, PLEASE VISIT THE REPOS ON OUR NEW [DIGITAL GOVERNANCE COUNCIL PAGE](https://github.com/dgc-cgn)**
 
 [Quick Link to Assessment Schemes](./scheme/profiles/profiles-overview.md)
 
